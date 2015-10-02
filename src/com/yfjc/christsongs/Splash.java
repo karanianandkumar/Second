@@ -46,7 +46,7 @@ public class Splash extends Activity {
 				finish();
  
 				// Start MainActivity.class
-				Intent myIntent = new Intent(Splash.this,MainActivity.class);
+				Intent myIntent = new Intent(Splash.this,TabLayoutActivity.class);
 				startActivity(myIntent);
 			}
 		};

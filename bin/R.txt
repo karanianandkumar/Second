@@ -414,6 +414,7 @@ int layout activity_main 0x7f03001a
 int layout lyric_display 0x7f03001b
 int layout splashscreen 0x7f03001c
 int layout support_simple_spinner_dropdown_item 0x7f03001d
+int layout tab_layout 0x7f03001e
 int menu main 0x7f0d0000
 int string abc_action_bar_home_description 0x7f07001b
 int string abc_action_bar_up_description 0x7f07001c

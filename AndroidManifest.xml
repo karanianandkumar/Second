@@ -30,6 +30,8 @@
             <meta-data
         android:name="android.support.PARENT_ACTIVITY"
         android:value="com.yfjc.christsongs.MainActivity" /></activity>
+        <activity android:name="com.yfjc.christsongs.FavSongs" android:screenOrientation="portrait"></activity>
+        <activity android:name="com.yfjc.christsongs.TabLayoutActivity" android:screenOrientation="portrait"></activity>
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
