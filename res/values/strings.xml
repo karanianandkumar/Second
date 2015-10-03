@@ -8175,4 +8175,2519 @@
  </item>
     </string-array>
     
+<string-array name="Eng_Alphabets">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D </item>
+        <item>E</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>V</item>
+        <item>Y </item>
+        
+    </string-array>
+      <string-array name="Eng_SongList">
+        <item>Aakaashamandunna ,Aananda Yaathra,Aanandamugaa Yehovaa Nee,Aascharyamaina Prema,Aayane Naa Sangeethamu,Andaala Thaara,Athyunnatha Simhaasa</item>
+        <item>Bangaram Adagaledu,Bheekarundau Maa ,Brathakaalani Unnaa</item>
+        <item>Cheyi Pattuko,Chithra Chithraalavaade</item>
+        <item>Devara Nee Devenalu,Devuni Sthuthiyinchudi,Devuniki Sthothramu ,Dinamella Ne Paadinaa,Dootha Paata Paadudi</item>
+        <item>Ella velalandu kastha,Enduko Nanninthagaa ,Enni Thalachinaa,Entha Madhuramu Yesuni,Entha Manchi Devudavayyaa</item>
+        <item>Gaganamu Cheelchukoni</item>
+        <item>Hallelujah Hallelujah,Hallelujah Paadedaa,Hallelujah Sthuthi Mahima,Hallelujah Yesu Prabhun</item>
+       	<item>Ide Naa Korika,Idigo Devaa Naa Jeevitham,Illalona Panduganta,Intha Kaalam Needu</item>
+        <item>Janminchenu Oka Thaara,Jeevithamantha,Junti Thene Dhaarala </item>
+        <item>Kalamulatho Raayagalamaa,Kaluvarigirilo Siluvadhaariyai,Kanneerelammaa,Kanulunnaa Kaanaleni,Kraisthavamoka Mathamu,Krotha Yedu Modalu,Kummari O Kummari,Kuthoohalam Aarbhaatame</item>
+        <item>Lekkinchaleni Sthothramu</item>
+        <item>Maargamu Choopumu Intiki,Maaripovaali Ee Lokamanthaa,Mahima Ghanathaku Arhudavu,Mahonnathudaa Nee Krupalo,Moodunaalla Muchchata Kosam</item>
+        <item>Naa Jeevam Naa Sarvam,Naa Kosamaa,Naa Praanaaniki Praanam Neeve,Naa Praanapriyuda Yesu Raajaa,Naadantoo Lokaana,Naadu Jeevamaayene,Naatho Maatlaadu Prabhuvaa,Nadipinchu Naa Naavaa,Najareyudaa Naa Yesayya,Nammakamaina Naa Snehithudu,Ne Saageda Yesunitho,Nedo Repo Naa Priyudesu,Nee Chethilo Rottenu,Nee Chethitho Nannu,Nee Dhanamu,Nee Premaa Nee Karunaa,Nee Rakthame ,Nee Roopu Chooda,Nee swaramu veenipiinchu,Neevennaallu Rendu ,Neevu Chesina Upakaaramu,Neevunte Naaku Chaalu,Ninna Nedu Nirantharam,Ninne Ninne Nammukunna,Ninne Preminthunu,Ninu Choose Kannulu,Nithyamu Sthuthinchinaa,Nityu dai na</item>
+        <item>O Sadbhakthulaaraa,O Yesu Nee Prema,Oohinchaleni Melulatho,Oranna Oranna</item>
+        <item>Paadedhamu vededhamu,Padivelalo Athipriyudu,Parama Jeevamu,Parishudhdha Parishudhdha,Pondithini Nenu,Praarthana Vinedi,Prema Yesuni Prema,Preminchedan,Priya Yesu Nirminchithivi,Priya Yesu Raajunu Ne </item>
+        <item>Raajulaku Raaju Puttena,Raakada samayamulo,Rammanuchunnaadu Ninnu,Randi Utsaahinchi Paadu,Ruchi Choochi Erigithini</item>
+        <item>Saagilapadi Mrokkedamu,Saakshyamichcheda,Sadaakaalamu Neetho,Sarva Krupaanidhiyagu,Seeyonu Paatalu,Shudhdha Hrudayam,Siluva Chentha Cherina,Siluvalo Bali Aina,Siluvalo Saagindi Yaathra,Silvalo Naakai Kaarchenu,Solipovalaldu Manassaa,Sri Yesundu Janminche,Sthothram Chellinthumu,Sthothramu Sthuthi Sthothramu,Sthuthiyu Mahima Ghanatha,Sugunaala Sampannudaa</item>
+        <item>Thallilaa Laalinchunu,Tharatharaalalo Yugayugaa,Thenekanna Theeyanainadi,Thoorpu Dikku Chukka</item>
+        <item>Vandanambonarthumo,Vetakaani Urilo </item>
+        <item>Yehova Naa Mora,Yehovaa Naa Balamaa,Yehovaa Naa Kaapari,Yehovaa Nee Naamamu,Yehovaanu Sthuthiyinchu,Yese Naa Aashrayamu,Yese Naa Parihaari,Yesu Jananamu,Yesu parishuddha,Yesu Sarvonnathudaa,Yesutho Teevigaanu Podamaa,Yudhdhamu Yehovaade</item>
+        
+    </string-array>
+    <string-array name="Eng_lyrics">
+        <item>Chorus: Aakaashamandunna Aaseenudaa\n
+Nee Thattu Kanuleththuchunnaanu\n
+Nenu Nee Thattu Kanuleththuchunnaanu        \n\n
+1. Daari Thappina Gorrenu Nenu\n
+Daari Kaanaka Thiruguchunnaanu ||2||\n
+Karuninchumaa Yesu Kaapaadumaa             \n\n
+2. Gaayapadina Gorrenu Nenu\n
+Baagu Cheyumaa Parama Vaidyudaa ||2||\n
+Karuninchumaa Yesu Kaapaadumaa             \n\n
+3. Paapa Oobhilo Padiyunnaanu\n
+Levaneththumaa Nannu Baagu Cheyumaa ||2||\n
+Karuninchumaa Yesu Kaapaadumaa            \n\n
+</item>
+<item>Chorus: Aananda Yaathra\n
+Idi Aathmeeya Yaathra\n
+Yesutho Noothana\n
+Yerushalemu Yaathra ||2||  \n\n
+1. Yesuni Rakthamu\n
+Paapamulanundi Vidipinchunu\n
+Veyi Nollatho Sthuthinchinanu\n
+Theerchalemu Aa Runamunu       \n\n
+2. Raathriyu Pagalunu\n
+Paadamulaku Raayi Thagalakunda\n
+Manaku Paricharya Cheyuta Koraku\n
+Deva Doothalu Manakundagaa      \n\n
+3. Kruthagnatha Leni Vaaru\n
+Velakoladiga Koolinanu\n
+Krupaa Vaakyamunaku Saakshulamai\n
+Krupa Vembadi Krupa Pondedamu      \n\n
+4. Aanandam Aanandam\n
+Yesuni Chooche Kshanam Aasannam\n
+Aathmaananda Bharithulamai\n
+Aagamanaakaankshatho Saagedan    \n\n
+</item>
+<item>Chorus: Aanandamugaa Yehovaa Nee Krupaalanni\n
+Anni Kaalambulandu Keerthinchedan (2)\n\n
+
+1. Chaavu Gothinundi Levaneththi Naaku – Jeevamichchina Jeeva Daatha\n
+Vivarinthu Ne Needu Vishwaasyatha Nenthayo\n
+Savyambugaa Ee Bhuviyanduna        \n\n
+2. Simhapu Pillalu – Aakaligonina- Yehova sahaayu dandariki\n
+Ihamandunaa Ae Melu Koduva Yundadu\n
+Aha! Emandu Nee Vishwaasyathan   \n\n
+3. Ennenno Shodhana Baadhalu Regi – Nannu Krungadeeya Poraadinan\n
+Ghanamaina Nee Vishwaasyathan Naaku Choopina\n
+Kanna Thandri Ninnu Koniyaadedan     \n\n
+4. Parvathambulu – Paaripoyinanu- Urvilo Maarpu Kaliginanoo\n
+Tharunamulu Virodhamuga Pai Lechinaa-\n
+Smariyincheda Nee Vishwasyathan     \n\n
+</item>
+<item>Chorus: Aascharyamaina Prema – Kalvariloni Prema\n
+Maranamu Kante Balamaina Premadi\n
+Nannu Jayinche Nee Prema   \n\n
+1. Paramunu Veedina Prema\n
+Dharalo Paapini Vedakina Prema\n
+Nannu Karuninchi Aadarinchi Sedadeerchi\n
+Nithya Jeevamichche          \n\n
+2. Paavana Yesuni Prema\n
+Siluvalo Paapini Vedakina Prema\n
+Naakai Maraninchi Jeevamichchi Jayamichchi\n
+Thana Mahimanichche    \n\n
+3. Shramalu Sahinchina Prema\n
+Naakai Shaapamu Norchina Prema\n
+Vidanaadani Premadi Ennadoo\n
+Edabaayadu                   \n\n
+4. Naa Sthithi Joochina Prema\n
+Naapai Jaalini Choopina Prema\n
+Naakai Parugethi Kougalinchi Muddhadi\n
+Kanneetini Thudiche   \n\n
+</item>
+<item>Chorus: Aayane Naa Sangeethamu Balamaina Kotayunu\n
+Jeevaadhipathiyu Aayane\n
+Jeevitha Kaalamella Sthuthinchedamu    \n\n
+1. Sthuthula Madhyalo Nivaasam Chesi\n
+Doothalella Pogade Devudaayane ||2||\n
+Veduchundu Bhakthula Swaramu Vini\n
+Dikku Leni Pillalaku Devudaayane ||2||    \n\n
+2. Iddaru mugguru Naa Naamamuna\n
+Aekeebhavinchina Vaari Madhyalona ||2||\n
+Undedananina Mana Devuni\n
+Karamulu Thatti Nithyam Sthuthinchedamu ||2||   \n\n
+3. Srushtikartha Kreesthu Yesu Naamamunaa\n
+Jeevitha Kaalamella Keerthinchedamu ||2||\n
+Raakadalo Prabhutho Nithyamundumu\n
+Mrokkedamu Sthuthinchedam Pogadedamu ||2||  \n\n
+</item>
+<item>Chorus: Andaala Thaara Arudenche Naakai Ambara Veedhilo\n
+Avathaaramurthy Yesayya Keerthi Avani Chaatuchun\n
+Aanandasandra Mupponge Naalo Amarakaanthilo\n
+Aadi Devuni Jooda – Aashimpa Manasu\n
+Payanamaithimi              \n\n
+1. Vishwaasa Yaathra Dooramenthaina Vindugaa Dochenu\n
+Vinthaina Shaanthi Varshinche Naalo Vijayapathamuna\n
+Vishwaala Neledi Deva Kumaaruni Veekshinche Deekshalo\n
+Virajimme Balamu – Pravahinche Prema\n
+Vishraanthi Nosaguchun         \n\n
+2. Yerushalemu Raajanagarilo Yesunu Vedakuchu\n
+Erigina Daari Tholagina Vela Edalo Krungithi\n
+Yesayya Thaara Eppativole Eduraaye Throvalo\n
+Entho Yabburapaduchu – Vismayamonduchu\n
+Aegithi Swaami Kadaku         \n\n
+3. Prabhu Janmasthalmu Paakaye Gaani Paraloka Soudhame\n
+Baaluni Jooda Jeevithamentha Paavanamaayenu\n
+Prabhu Paada Pooja Deevena Kaagaa Prasarinche Punyamu\n
+Brathuke Mandiramaaye – Arpanale Sirulaaye\n
+Phaliyinche Praarthana        \n\n
+</item>
+<item>Chorus: Athyunnatha Simhaasanamupai – Aaseenudavaina Devaa\n
+Athyantha Premaa Swaroopivi Neeve\n
+Aaraadhinthunu Ninne\n
+Aahaahaa.. Hallelujah – Aahaahaa.. Hallelujah ||3||\n\n
+Aahaahaa.. Hallelujah – Aahaahaa.. Aamen\n
+1. Aascharyakarudaa Sthothram\n
+Aalochanakarthaa Sthothram\n
+Balamaina Devaa Nithyudavagu Thandri\n
+Samaadhaana Adhipathi Sthothram         \n\n
+2. Krupaa Sathya Sampoornudaa Sthothram\n
+Krupatho Rakshinchithive Sthothram\n
+Nee Rakthamichchi Vimochinchinaavu\n
+Naa Rakshanakartha Sthothram               \n\n
+3. Sthuthulapai Aaseenudaa Sthothram\n
+Sampoornudaa Neeku Sthothram\n
+Maa Praarthanalu Aalakinchuvaadaa\n
+Maa Pradhaana Yaajakudaa Sthothram    \n\n
+4. Mruthyunjayudaa Sthothram\n
+Mahaaghanudaa Sthothram\n
+Mammunu Konipova Thvaralo Raanunna\n
+5. Megha Vaahanudaa Sthothram                \n\n
+Aamen Anuvaadaa Sthothram\n
+Alphaa Omegaa Sthothram\n
+6. Agni Jvaalalavanti Kannulu Galavaadaa\n
+Athyunnathudaa Sthothram    \n\n
+</item>
+<item>Chorus: Bangaram Adugaledu Vajraalani Adugaledu\n
+Hrudayaanni Adigaadayyaa\n
+Aasthulanu Adugaledu Anthasthulu Adugaledu\n
+Hrudayaanni Adigaadayyaa ||2||\n
+Manushulanu Chesaadayyaa\n
+Ee Lokaanni Ichchaadayyaa ||2||\n
+Naa Yesayyaa.. Naa Yesayyaa…\n
+Naa Yesayyaa.. Naa Yesayyaa…   \n\n
+1. Paapaanni Tholaginchi Shaapaanni Viricheya\n
+Bhoolokam Vachchaadayyaa\n
+Maanavuni Rakshinchi Paralokamuna Chercha\n
+Siluvanu Mosaadayyaa ||2||\n
+Kanneetini Thudichaadayyaa\n
+Santosham Panchaadayyaa ||2||   \n\n
+2. Rakshananu Andinchi Rakthaanni Chindinchi\n
+Mokshaanni Ichchaadayyaa\n
+Dhanavanthulanugaa Manalanu Cheya\n
+Daaridryamondaadayyaa ||2||\n
+Kanneetini Thudichaadayyaa\n
+Santosham Panchaadayyaa ||2||    \n\n
+</item>
+<item>Chorus: Bheekarundau Maa Yehovaa – Peeta Medutan Goodare\n
+Yekamai Saashtaangapadi – Sar-veshvaruni Goniyaadare         \n\n
+1. Mattithone Mammu Nella – Maanavuluga Srujinchenu\n
+Itti Shakthundou Prabhun Me-mechchugaa Madi Nenthumu      \n\n
+2. Aerithodu Leka Mamu Sa-rveshvarudu Srushtinchenu\n
+Dhaarunin Daanokkade Maa – Daivamani Poojinthumu              \n\n
+3. PuttaGittan Jeya Daanai – Natti Devuni Shakthini\n
+Battugaa Lokasthulaaraa – Prasthuthimpare Bhakthini                \n\n
+4. Meti Sangeethambulapai – Minta Naarava Mondanu\n
+Jaatare Vevela Nollan – Sannuthul Prabhu Vandanu                 \n\n
+5. Mikkili Kashtambulatho – Miththikini Baalpondanu\n
+Dikku Leni Gorrelatlu – Diruga Jerpan Mandanu                         \n\n
+</item>
+<item>Chorus: Brathakaalani Unnaa Brathakalekunnaa\n
+Nilavaalani Unnaa Nilavalekunnaa ||2||\n
+Choodaalani Unnaa Choodalekunnaa\n
+Cheraalani Unnaa Ninu Cheralekunnaa\n
+Brathikinchumo Yesayyaa\n
+Dari Cherchumo Nannayyaa ||2||        \n\n
+1. Kaapari Leni Gorrenaithi\n
+Kaatiki Ne Cheruvaithi\n
+Kaavali Leni Thotanaithi\n
+Kaaradavigaa Ne Maarithi\n
+Goodu Chedarina Guvvanaithi\n
+Gunde Pagilina Ekaakinaithi\n
+Gunde Didulugaa Undayyaa\n
+Goodu Cherchumo Yesayyaa ||2||             \n\n
+2. Naa Aashale Adiaashalai\n
+Adugantene Naa Jeevitham\n
+Shodhanala Sudivadilo\n
+Thotrillene Naa Payanam\n
+Chukkaani Leni Naavanaithi\n
+Gamyam Theliyaka Allaaduchunti\n
+Guri Cherchumo Yesayyaa\n
+Gunde Gudilo Neevundayyaa ||2||           \n\n
+
+</item>
+<item>Chorus: Cheyi Pattuko Naa Cheyi Pattuko\n
+Jaaripokundaa Ne Padipokundaa\n
+Yesu Naa Cheyi Pattuko ||2||            \n\n
+1. Krungina Vela Odaarpu Neevegaa\n
+Nanu Dhairyaparachu Naa Thodu Neevegaa ||2||\n
+Maruvagalanaa Nee Madhura Premanu\n
+Yesu Naa Jeevithaanthamu ||2||\n
+Yesu Naa Jeevithaanthamu              \n\n
+2. Shodhana Baadhalu Ennenno Kaliginaa\n
+Vishwaasa Naavalo Kalakalame Reginanoo\n
+Viduvagalanaa Oka Nimishamainanoo\n
+Yesu Naa Jeevithaanthamu ||2||\n
+Yesu Naa Jeevithaanthamu               \n\n
+</item>
+<item>Chorus: Chithra Chithraala Vaade Mana Yesayya\n
+Chaalaa Chithraala Vaade Mana Yesayya ||2||\n
+Dayagala Vaadammo\n
+Ee Jagamuna Lene Ledammo ||2||      \n\n
+1. Raayi Rappaku Mokkavaddu\n
+Chettu Puttanu Kolavaddu ||2||\n
+Dayagala Vaadammo\n
+Ee Jagamuna Lene Ledammo ||2||  \n\n
+2. Lokamunaku Vachchinaadu\n
+Paapula Rakshinchinaadu\n
+Parishudhdhudochchinaadu\n
+Aa Paramuna Cherchuthaadu ||2||   \n\n
+3. Kollu Gorlu Koradata\n
+Kobbarikaayalu Koradata ||2||\n
+Dayagala Vaadammo\n
+Ee Jagamuna Lene Ledammo ||2||    \n\n
+</item>
+<item>Chorus: Devara Nee Deevenalu\n
+Dhaaraalamuganu Veeralapai\n
+Baaguga Vegame Diganimmu\n
+Paavana Yesuni Dvaaraganu ||2||\n\n
+1. Dampathulu Dandiga Nee\n
+Dhaathrilo Velayuchu Sampadalan\n
+Sompuga Nimpuga Pempaguchu\n
+Sahimpuna Veeru Sukhinchutakai     \n\n
+2. Ee Kavanu Nee Karunan\n
+Aakaru Varakunu Lokamulo\n
+Shokamu Lekaye Ekamugaa\n
+Braakatamuganu Jekonumu           \n\n
+3. Ippagidi Neppudunu\n
+Goppagu Prematho Noppuchu Daa\n
+Moppina Choppuna Dappakanu\n
+Meppuga Brathukaga Bampu Krupan \n\n
+4. Thaapamulu Paapamulu\n
+Mopuga Veeripai Raakundagaa\n
+Gaapuga Braapuga Daapunundi\n
+Yaapadalanniyu Baapuchunu         \n\n
+5. Saadhulugan Jeyutakai\n
+Shodhanalache Neevu Shodhinpagaa\n
+Kadalaka Vadalaka Mudamuna Nee\n
+Paadamu Daapuna Baadukonan       \n\n
+6. Menduga Bhoomandalapu\n
+Gandamulalo Veerundaganu\n
+Thandriga Dandiga Nandanundi\n
+Vendiyu Vaanini Khandinchave  \n\n
+7. Iddara Veeriddarunu\n
+Shudhdhulai Ninnu Sevinchutakai\n
+Shradhdhatho Budhdhiga Sidhdhapadan\n
+Didhdhumu Nee Priya Biddalugaan  \n\n
+8. Vaasiga Nee Daasulamu\n
+Chesina Ee Moral Deesikoni\n
+Maa Sakaleshwara Nee Suthuda\n
+Yesuni Perita Brovumaamen      \n\n
+</item>
+<item>Chorus: Devuni Sthuthiyinchudi\n
+Ellappudu Devuni Sthuthiyinchudi \n\n
+1. Aayana Parishudhdha Aalayamandu\n
+Aayana Sannidhilo Aa Aa ||2|| \n\n
+2. Aayana Balamunu Prasidhdhi Cheyu ||2||\n
+Aakashavishaalamandu Aa Aa ||2|| \n\n
+3. Aayana Paraakrama Kaaryamulan Batti ||2||\n
+Aayana Prabhavamunu Aa Aa ||2|| \n\n
+4. Booradhvanitho Aayanan Sthuthinchudi ||2||\n
+Svaramandalamulatho Aa Aa ||2|| \n\n
+5. Sanna Thanthula Sithaarathonu ||2||\n
+Chakkani Svaramulatho Aa Aa ||2|| \n\n
+6. Thamburathonu Naatymauthonu ||2||\n
+Thanthi Vaadyamuthonu Aa Aa ||2|| \n\n
+7. Pillanagrovula Challaganoodi ||2||\n
+Ellaprajalu Jeri Aa Aa ||2|| \n\n
+8. Mroguthaalamulatho Aayanan Sthuthinchudi ||2||\n
+Gambheera Thaalamutho Aa Aa ||2|| n\n
+9. Sakala Praanulu Yehovan Sthuthinchudi\n
+Hallelooyaa Aamen Aa Aa ||2|| \n\n
+</item>
+<item>Chorus: Devuniki Sthothramu Gaanamu Cheyutaye Manchidi\n
+Manamandaramu Sthuthigaanamu Cheyutaye Manchidi\n
+1. Yerushalemu Yehovaye Kattuchunnavaadani\n
+Ishrayeleeyulanu Pogucheyuvaadani   \n\n
+2. Gunde Chedarina Vaarini Baagucheyuvaadani\n
+Vaari Gaayamulanniyu Kattuchunnavaadani \n\n
+3. Nakshathramula Sankhyanu Aayane Niyaminchunu\n
+Vaatikanniyu Perulu Pettuchunnavaadani    \n\n
+4. Prabhuvu Goppavaadunu Adhika Shakthi Sampannudu\n
+Gnaanamunaku Aayane Mithiyu Lenivaadani \n\n
+5. Deenulaku Andaayene Bhakthiheenula Koolchunu\n
+Sithaaraatho Devuni Sthuthulatho Keerthinchudi   \n\n
+6. Aayana Aakaashamun Meghamulatho Kappunu\n
+Bhoomikoraku Varshamu Sidhdhaparachuvaadani   \n\n
+7. Parvathamulalo Gaddini Pashuvulaku Molapinchenu\n
+Arachu Pillakaakulakunu Aahaaramu Thaaneeyunu  \n\n
+8. Gurramula Narulandali Balamu Naanandinchadu\n
+Krupa Vedu Vaarilo Santhasinchuvaadani      \n\n
+9. Yerushalemu Yehovaanu Seeyonu Nee Devuni\n
+Keerthinchumu Koniyaadumu Aanandinchuvaadani \n\n
+10. Pillala Naasheervadinchiyu Balaparachu Nee Gummamul\n
+Manchi Godhumapantatho Ninnu Thrupthiganunchunu   \n\n
+11. Bhoomiki Thanayaagnanu Ichchuvaadu Aayane\n
+Vegamugamu Devuni Vaakyamu Parugeththunu     \n\n
+12. Vaakyamunu Yaakobuku Theliyachesinavaadani\n
+Ae Janamukeelaaguna Chesiyundaledani         \n\n
+</item>
+
+<item>Chorus: Dinamella Ne Paadinaa Keerthinchinaa\n
+Nee Runamu Ne Theerchagalanaa\n
+Koniyaadi Paadi Nee Saakshigaane\n
+Ilalo Jeevinchanaa             \n\n
+1. Gaayapadina Samayaana Manchi Samarayunilaa\n
+Naa Gaayaalu Kadigina Devaa\n
+Aakalaina Velalo Aahaaramichchi\n
+Nannu Poshinchinaavu Devaa ||2||\n
+Ninu Viduvanoo Edabaayananinaa ||2||\n
+Naa Yesayya                      \n\n
+2. Naa Balaheenathayandu Naa Siluvanu Mosthoo\n
+Ninnu Poli Nenu Nadichedan\n
+Venukunnavi Marachi Mundunna Vaatikai\n
+Sahanamutho Parugeththedan ||2||\n
+Unnatha Pilupunaku Kalugu Bahumaanamu ||2||\n
+Nenu Pondaalani                  \n\n
+</item>
+<item>Chorus: Dootha Paata Paadudi – Rakshakun Sthuthinchudi\n
+Aa Prabhundu Puttenu – Bethlahemu Nanduna\n
+Bhoojanambu Kellanu – Soukhya Sambhramaayenu\n
+Aakasambu Nanduna – Mrogu Paata Chaatudi\n
+Dootha Paata Paadudi – Rakshakun Sthuthinchudi\n\n
+1. Oordhva Lokamanduna – Golvagaanu Shudhdhulu\n
+Anthya Kaalamanduna – Kanya Garbhamanduna\n
+Buttinatti Rakshakaa – O Immaanuyel Prabho\n
+O Naraavathaarudaa – Ninnu Nenna Shakyamaa\n
+Dootha Paata Paadudi – Rakshakun Sthuthinchudi\n\n
+2. Raave Neethi Sooryudaa – Raave Deva Puthrudaa\n
+Needu Raaka Vallanu – Loka Soukhya Maayenu\n
+Bhoo Nivaasulandaru – Mruthyu Bheethi Gelthuru\n
+Ninnu Nammu Vaariki – Aathma Shudhdhi Kalgunu\n
+Dootha Paata Paadudi – Rakshakun Sthuthinchudi\n\n
+</item>
+<item>Chorus: Ella velalandu kastha kaalamandhu \n
+Vallabhunda Yesun Sthuthinthun \n
+Ellanu Neeve naa kelladala Vallapadhade vivarinpa \n\n
+
+1. Vimoochakudaa - Vimoochana neeve \n
+Rakshakudavu - Naa rakshana neeve Ella\n
+\n
+2. Sruchti karthavu - Sahaayamu neeve \n
+Ishtudav neevu - Trithwamu neeve Ella\n\n
+
+3. Gnanamu neeve - Naa paanamu neve \n
+Danamu neeve - Naa ganamu neeve Ella\n\n
+
+4. Jyothiyu neeve - Naa neethiyu neeve \n
+Aadhiyu neeve - Naa anthamu neeve Ella\n\n
+
+5. Nithyuda neeve - Naa sathyunda neeve \n
+Sthothramu neeve - Naa nethramu neeve Ella\n\n
+
+6. Jeevamu neeve - Naa devudu neeve \n
+Paavana meeve - Naa kaavali neeve Ella\n\n
+
+7. Kaanthiyu neeve - Naa shanthi yu neeve \n
+Santhsa meeve - Naa kanthayu neeve Ella\n\n
+</item>
+<item>Chorus: Enduko Nanninthagaa Neevu\n
+Preminchithivo Devaa\n
+Anduko Naa Deena Stuthi Paathra\n
+Hallelooya Yesayyaa ||2||\n\n
+1. Naa Paapamu Baapa Nara Roopivainaavu\n
+Naa Shaapamu Maapa Naligi Vrelaadithivi\n
+Naaku Chaalina Devudavu Neeve\n
+Naa Sthaanamulo Neeve ||2||   \n\n
+2. Nee Roopamu Naalo Nirminchiyunnaavu\n
+Nee Polikalone Nivasinchumannaavu\n
+Neevu Nannu Ennukontivi\n
+Nee Korakaki Nee Krupalo ||2||  \n\n
+3. Naa Shramalu Sahinchi Naa Aashrayamainaavu\n
+Naa Vyadhalu Bnarinchi Nannaadukunnaavu\n
+Nannu Neelo Choochukunnaavu\n
+Nanu Daachiyunnaavu ||2||      \n\n
+4. Nee Sannidhi Naalo Naa Sarvamu Neelo\n
+Nee Sampada Naalo Naa Sarvasvamu Neelo\n
+Neevu Nenu Ekamaguvaraku\n
+Nannu Viduvanantive ||2||          \n\n
+5. Naa Manavulu Munde Nee Manasulo Neravere\n
+Naa Manugada Munde Nee Granthamulonunde\n
+Emi Adbhutha Prema Sankalpam\n
+Nenemi Chellinthun ||2||  \n\n
+</item>
+<item>Chorus: Enni Thalachinaa Edi Adiginaa\n
+Jarigedi Nee Chiththame ||2|| Prabhuvaa\n
+Nee Vaakkukai Vechiyuntini\n
+Naa Praarthana Aalakinchumaa ||2|| Prabhuvaa\n\n
+1. Nee Thodu Leka Nee Prema Leka\n
+Ilalona Ae Praani Niluvaledu ||2||\n
+Adavi Poovule Nee Prema Pondagaa ||2||\n
+Naa Praarthana Aalakinchumaa ||2|| Prabhuvaa   \n\n
+2. Naa Inti Deepam Neeve Ani Thalachi\n
+Naa Hrudayam Nee Korakai Padilaparachithi ||2||\n
+Aaripoyina Naa Velugu Deepamu ||2||\n
+Veliginchumu Nee Prematho ||2|| Prabhuvaa  \n\n
+3. Aapadalu Nannu Vennantiyunnaa\n
+Naa Kaapari Neevai Nannaadukontivi ||2||\n
+Lokamanthayoo Nannu Vidachinaa ||2||\n
+Nee Nundi Veru Cheyyavu ||2|| Prabhuvaa  \n\n
+4. Naa Sthithi Gamaninchi Nannoo Preminchi\n
+Naa Korakai Kalvarilo Yaagamaithivi ||2||\n
+Needu Yaagame Naa Moksha Maargamu ||2||\n
+Neeyande Nithyajeevmu ||2|| Prabhuvaa   \n\n
+</item>
+<item>Chorus: Entha Madhuramu Yesuni Prema\n
+Entha Madhuramu Naa Yesuni Prema ||2||\n
+Premaa Premaa Premaa Premaa ||2||     \n\n
+1. Andhakaara Bandhamu Nannaavarinchagaa\n
+Andhudanai Yesayyanu Erugakuntini ||2||\n
+Bandhamu Thenchenu\n
+Brathikinchenu Nannu ||2||      \n\n
+2. Rakshinchu Vaaru Leka Pakshinaithini\n
+Bhakshakudu Baanamu Guri Pettiyundenu ||2||\n
+Bandhamu Thenchenu\n
+Brathikinchenu Nannu ||2||    \n\n
+</item>
+<item>Chorus: Entha Manchi Devudavayyaa Yesayyaa\n
+Chinthalanni Theerenayyaa Ninnu Cherina\n
+Naa Chinthalanni Theerenayyaa Ninnu Cherina ||2||\n
+
+1. Santhosham Ekkada Undanee\n
+Samadhaanam Echchata Naaku Dorikenanee ||2||\n
+Jagamanthaa Vedikaanu Janulandarinadigaanu ||2||\n
+Chivarikadi Neelone Kanugonnaanu ||2||          \n\n
+2. Premanedi Ekkada Undanee\n
+Kshamanedi Echchata Naaku Dorikenanee ||2||\n
+Bandhuvulalo Vedikaanu Snehithulanu Adigaanu ||2||\n
+Chivarikadi Neelone Kanugonnaanu ||2||          \n\n
+2. Sathyamanedi Ekkada Undanee\n
+Nithyajeevam Echchata Naaku Dorikenanee ||2||\n
+Endariko Mokkaanu Evevo Chesaanu ||2||\n
+Chivarikadi Neelone Kanugonnaanu ||2||         \n\n
+</item>
+<item>Chorus: Gaganamu cheelchukoni-Yesu \n
+Ghanulanu theesukoni \n
+Velaadhi dhoothalatho bhuviki (2)\n
+Vegame raanunde \n\n
+
+1. Paraloka peddhalatho - parivaa-ramutho kadhali (2) \n
+Dharasangha vadhuvunakai (2)\n
+Tharalenu varudadhigo .. oo.. (2)\n\n
+
+2. Modhataganu gorreganu - mudhamaaraga vachhenu (2)\n
+Kodhamaasim-hapureethi (2)\n
+Khadhalenu gharjanatho ..oo.. (2)\n\n
+
+
+3. Kanipettu bhakthaali - kanu-reppalo maaredharu (2)\n
+Pradhamamuna lechedharu (2)\n
+Parishudhhulu - mruthulu..uu.. (2)\n\n
+</item>
+<item>Chorus: Hallelujah Hallelujah Sthothramulu\n
+Hallelujah Hallelujah Sthothramulu ||2||\n
+Raajula Raajaa Prabhuvula Prabhuvaa\n
+Raanaiyunnavaadaa ||2||\n
+Mahimaa Mahimaa Aa Yesuke…\n
+Mahimaa Mahimaa Mana Yesuke ||2| \n\n
+1.Sooryunilo Chandrunilo\n
+Thaaralalo Aakaashamulo ||2||    \n\n
+2. Kondalalo Loyalalo\n
+Jeevulalo Aa Jalamulalo ||2||     \n\n
+3. Aascharyakarudaa Aadisambhoothudaa\n
+Yugayugamula Nithyudaa ||2||    \n\n
+</item>
+<item>Chorus: Hallelujah Paadedaa Prabhu Ninnu Koniyaadedan ||2||\n
+Anni Velalayandunaa Ninnu Poojinchi Keerthinthunu ||2||\n
+Prabhuvaa Ninnu Ne Koniyaadedan     \n\n
+1. Vaagdhaanamulanichchi\n
+Neraverchuvaadavu Neeve ||2||\n
+Nammakamaina Devaa\n
+Nannu Kaapaaduvaadavu Neeve ||2||\n
+Prabhuvaa Ninnu Ne Koniyaadedan       \n\n
+2. Endaru Ninu Choochiro\n
+Vaariki Velugu Kalgen ||2||\n
+Prabhuvaa Nee Velugondithin\n
+Naa Jeevampu Jyothivi Neeve ||2||\n
+Prabhuvaa Ninnu Ne Koniyaadedan        \n\n
+3. Kashtamulannintini\n
+Priyamuga Bhariyinthunu ||2||\n
+Nee Korake Jeevinthunu\n
+Naa Jeevampu Daathavu Neeve ||2||\n
+Prabhuvaa Ninnu Ne Koniyaadedan          \n\n
+</item>
+<item>Chorus: Hallelujah Sthuthi Mahima\n
+Ellappudu Devuni Kichchedamu (2)\n
+Aa Aa Aa Hallelujah Hallelujah Hallelujah (2)\n
+
+1.Ala Sainyamulaku Adhipathi Aina\n
+Aa Devuni Sthuthinchedamu (2)\n
+Ala Sandramulanu Daatinchina\n
+Aa Yehovanu Sthuthinchedamu (2)           \n\n
+2.Aakaashamu Nundi Mannaanu Pampina\n
+Devuni Sthuthinchedamu (2)\n
+Banda Nundi Madhura Jalamunu Pampina\n
+Aa Yehovanu Sthuthinchedamu (2)          \n\n
+</item>
+<item>1. Hallelujah Yesu Prabhun - ellaru sthuthiyinchudi \n
+Vallabhuni cheryalanu - tilakinchi sthuthiyinchudi \n
+Balamayina panicheyu - balavanthuni sthuthiyinchudi \n
+Ellarini sweekarinchu -Yesuni sthuthiyinchudi \n\n
+
+Chorus: Raajula rajeyina yesu raaju - Bhujenula nelun \n
+Hallelujah Hallelujah - Devuni Sthuthiyinchudi \n\n
+
+2. Tamburathonu Veenathonu - Prabhuvunu sthuthiyinchudi \n
+Paapamunu rakthamutho - kadigenu sthuthiyinchudi \n
+Boorathonu thaalamulan - mroginchi sthuthiyinchudi \n
+Nirantharamu maarani - Yesuni sthuthiyinchudi Raajula\n\n
+
+3. Surya chandrulaara ilaa - devuni sthuthiyinchudi \n
+Hrudhayamunu veliginchina - yesuni sthuthiyinchudi \n
+Agni vada gandlaara meeru - karthanu sthuthiyinchudi \n
+Hrudhayamunu chedhinchina - nadhuni sthuthiyinchudi Raajula\n\n
+
+4. Yuvakulaara pillalaara - devuni sthuthiyinchudi \n
+Jeevithamun Prabhu panikai - samarpinchi sthuthiyinchudi \n
+Peddhalaaraa prabhuvulaaraa - Yehovanu sthuthiyinchudi \n
+Aasthulanu yesunakai - arpinchi sthuthiyinchudi Raajula\n\n
+
+5. Aghadhamayina jelamulaaraa - devuni sthuthiyinchudi \n
+Alalavale sevakulu - lechiri sthuthiyinchudi \n
+Doothalaara poorva bhakthulaaraa - devuni sthuthiyinchudi \n
+Paramandhu parishuddhulu - ellaru sthuthiyinchudi Raajula\n\n
+</item>
+<item>Chorus: Ide Naa Korika\n
+Nava Jeevana Raagamaalika ||2||        \n\n
+1.Yesu Laaga Undaalani\n
+Yesuthone Nadavaalani ||2||\n
+Nilavaalani Gelavaalani\n
+Yesunande Aanandinchaalani ||2||         \n\n
+2. Ee Lokamlo Paralokamu\n
+Naalone Nivasinchaalani ||2||\n
+Intaa Bayata Yesunaathunike\n
+Kantipaapanai Veligipovaalani ||2||        \n\n
+3. Yaathranu Muginchina Vela\n
+Aarohanamai Povaalani ||2||\n
+Kreesthu Yesutho Simhaasanamu\n
+Paikegasi Koorchovaalani ||2||             \n\n
+</item>
+<item>Chorus: Idigo Deva Naa Jeevitham\n
+Aapaadamasthakam Neekankitham ||2||\n
+Sharanam Nee Charanam ||4||  \n\n
+1. Palumaarlu Vaidolaginaanu\n
+Paraloka Darshanamunundi\n
+Viluvaina Nee Divya Pilupuku\n
+Ne Thaginatlu Jeevinchanaithi ||2||\n
+Ainaa Nee Prematho\n
+Nannu Dari Cherchinaavu\n
+Anduke Gaikonumu Devaa\n
+Ee Naa Shesha Jeevitham    \n\n
+2. Nee Paadamula Chentha Cheri\n
+Nee Chiththambu Neneruga Nerpu\n
+Nee Hrudaya Bhaarambu Nosagi\n
+Praarthinchi Panicheyanimmu ||2||\n
+Aagipoka Saagipovu\n
+Priyasuthuniga Panicheyanimmu\n
+Prathi Chotha Nee Saakshigaa\n
+Prabhuvaa Nannundanimmu   \n\n
+</item>
+<item>Chorus: Illalona Panduganta Kallalona Kaanthulanta\n
+Enduko Enduke Koyilaa\n
+Cheppave Cheppave Koyilaa\n\n
+1. Mallepoola Manchu Jallu Mandiraana Kurise Nedu\n
+Enduko Enduke Koyilaa\n
+Cheppave Cheppave Koyilaa\n
+Aa… Ardharaathri Kaalamandu Vennela – Aaha\n
+Aascharyakarudanta Vennela – Aaha ||2||\n
+Janminchinaadanta Vennelaa\n
+Ee Avanilonanta Vennelaa ||2||      \n\n
+2. Haa… Ae Ooru Ae Vaada Ae Dikku Puttinaadu Koyilaa\n
+Cheppave Cheppave Koyilaa ||2||\n
+Aa… Yuda Deshamandu Vennela – Aaha\n
+Bethlehemu Puramunandu Vennela -Aaha ||2||\n
+Raajulaku Raajanta Vennelaa\n
+Aa Raju Yesanta Vennela ||2||    \n\n
+3. Aaha.. Thaara Choopu Daarilone Vachchinaaru Evvare Koyilaa\n
+Cheppave Cheppave Koyilaa ||2||\n
+Aa… Thoorpu Desha Gnaanulamma Vennela – Aaha\n
+Darshimpa Vachchinaaru Vennela – Aaha ||2||\n
+Bangaaru Sambraani Bolam\n
+Thechchinaaru Ichchinaaru Vennelaa ||2|| \n\n
+4. Aa… Divi Nundi Ee Bhuviki Vachinaadu Enduke Koyilaa\n
+Cheppave Cheppave Koyilaa ||2||\n
+Paapulaina Manakosam Vennela… Aahaa\n
+Praanaanni Arpinchi Vennela… Aahaa ||2||\n
+Paralokaaniki Maargam Vennelaa\n
+Uchithamgaa Ichchinaadu Vennelaa ||2||  \n\n
+5. Haa.. Paralokam Cherutakai Nenemi Cheyyaali Koyilaa\n
+Cheppave Cheppave Koyilaa ||2||\n
+Yesayyanu Nammuko Vennela… Aahaa\n
+Paapalanu Oppuko Vennela… Aahaa ||2||\n
+Krothagaa Janminchu Vennelaa\n
+Rakshananu Ponduko Vennelaa ||2||      \n\n
+</item>
+<item>Chorus: Intha Kaalam Needu Krupalo – Kaachina Devaa\n
+Ikanu Kooda Maaku Thodu – Needa Neeve Kadaa      \n\n
+
+1.Enni Aellu Gadachinaa – Enni Tharaalu Maarinaa (2)\n
+Maarani Veedani Preme Needayyaa\n
+Maarchina Naa Jeevitham Neeke Yesayyaa (2)         \n\n
+
+2.Neevu Chesina Melulu – Thalachukundunu Anudinam (2)\n
+Naa Sthuthi Sthothramu Neeke Yesayyaa\n
+Verugaa Emiyu Chellinchalenayyaa (2)              \n\n
+</item>
+<item>Chorus: Janminchenu Oka Thaara\n
+Thoorpu Dikkuna Kaanthimayamugaa\n
+Divi Nundi Bhuviki Vedalina\n
+Raaraajunu Soochisthu ||2||\n\n
+Happy Happy Christmas\n
+Merry Merry Christmas ||2||    \n\n
+1. Idigo Prajalandariki\n
+Santhoshakaramaina Suvaarthamaanamu ||2||\n
+Devaadi Devundu\n
+Oka Shishuvai Puttenu ||2||      \n\n
+2. Sarvonnatha Sthalamulalo\n
+Devuniki Mahima Ghanatha Prabhaavamu\n
+Aayanakishtulaku\n
+Samaadhaanamu ||2||              \n\n
+3. Manalanu Paapaalanundi\n
+Rakshinchu Devudu Aayaane Yesu ||2||\n
+Nee Korake Arudinche\n
+Thana Praanam Nichchutakai ||2|| \n\n
+</item>
+<item>Chorus: Jeevitha mantha Nee Prema-gaanam Pranu-thinthu-mo Memu Deva \n
+Prachu-rinthu memu Nee Kirthin Aananda Gaanambutho \n\n
+
+1. Sarwa-samayamu lalo Nee sthuthi gaanam \n
+Ella-velala-yandhu Nee naama dhyanam \n
+Maa-kadhiye-melu Ee-Jeevi-thaana \n
+Sthu-thinthu Na Raksha-kaa Jeevitha\n\n
+
+2. Srushti-nanthatini Nee-maata-chetha \n
+Sruji-yinchi-thiviga ma deva deva \n
+Ni Ghana-magu mahima varnimpa-tharama \n
+Ni Ghana-magu mahima varnimpa-tharama Jeevitha\n\n
+
+3. Kalu-shaathmula-maina Ma koraku Ni \n
+Vilu-vaina Praanambu Narpinchi-thiviga \n
+Kaluvaari-giripai chupeena-prema \n
+Sthu-thinthu Na Raksha-kaa Jeevitha\n\n
+</item>
+<item>Chorus: Junti Thene Dhaarala Kannaa\n
+Yesu Naamame Madhuram\n
+Yesayya Sannidhine Maruvajaalanu ||2||\n
+Jeevithakaalamanthaa Aanandinchedaa\n
+Yesayyane Aaraadhinchedaa ||2||  \n\n
+1. Yesayya Naamame Bahu Poojaneeyamu\n
+Naapai Dryshti Nilipi Santhrushtiga Nanu Unchi\n
+Nannenthagaano Deevinchi\n
+Jeevajalapu Ootalatho Ujjeevimpajesene ||2||  \n\n
+2. Yesayya Naamame Balamaina Durgamu\n
+Naa Thodai Nilichi Kshemamugaa Nanu Daachi ||2||\n
+Nannenthagaano Karuninchi\n
+Pavithra Lekhanaalatho Uththejimpajesene ||2|| \n\n
+3. Yesayya Naamame Parimala Thailamu\n
+Naalo Nivasinche Suvaasanagaa Nanu Maarchi ||2||\n
+Nannenthagaano Preminchi\n
+Vijayothsavaalatho Ooregimpajesene ||2||   \n\n
+</item>
+<item>Chorus: Kalamulatho Raayagalamaa\n
+Kavithalatho Varninchagalamaa\n
+Kalalatho Vivarinchagalamaa\n
+Nee Mahonnathamaina Premaa ||2||\n
+Aaraadhinthunu ||4||\n\n
+Raaraajuvu Neeve\n
+Naa Thandrivi Neeve\n
+Ninu Viduvanu Edabaayanu ||2||\n\n
+1. Aakaashamulu Nee Mahimanu\n
+Vivarinchuchunnavi\n
+Antharikshamu Nee Chethi Panini\n
+Varninchuchunnadi ||2||\n
+Devaa Naa Praanamu\n
+Nee Korakai Thapiyinchuchunnadi ||2||          \n\n
+2. Seraapulu Keroobulu\n
+Nithyamu Ninu Sthuthiyinchuchunnavi\n
+Mahaa Doothalu Pradhaana Doothalu\n
+Nee Naamamu Keerthinchuchunnavi ||2||\n
+Devaa Naa Praanamu\n
+Nee Korakai Thapiyinchuchunnadi ||2||          \n\n
+</item>
+<item>Chorus: Kaluvarigirilo Siluvadhaariyai\n
+Vrelaadithivaa Naa Yesayyaa ||2||\n\n
+1. Anyaayapu Theerpunondi Ghoramaina Shikshanu\n
+Dveshaagni Jwaalalo Doshivai Nilichaavaa ||2||\n
+Naa Doshakriyalakai Siluvalo Bali Aithivaa\n
+Nee Praana Kraya Dhanamutho Rakshinchithivaa ||2|| \n\n
+2. Daari Thappipoyina Gorrenai Thirigaanu\n
+Ae Daari Kaanaraaka Siluva Dariki Cheraanu ||2||\n
+Aakari Rakthapu Bottunu Naakorakai Dhaaraposi\n
+Nee Praana Thyaagamutho Vidipinchithivaa ||2|| \n\n
+</item>
+<item>Chorus: Kanneerelammaa… Karuninchu Yesu Ninnu Viduvabodammaa\n
+Kalavarapadakammaa… Karuninchu Yesu Ninnu Viduvabodammaa\n
+Karuna Choopi Kalatha Maanpe (2)\n
+Yese Thodammaa                  \n\n
+
+1. Neekemi Ledani Emi Theledani\n
+Annaaraa Ninnu Avamaana Parichaaraa\n
+Thala Raatha Inthenani Tharvaatha Emanuonani\n
+Repatini Goorchi Chinthinchuchunnaavaa\n
+Chinthinchakanna Yesu Maatalu Marichaavaa\n
+Maaraanu Madhuramgaa Maarchenu Choosaavaa (2)      \n\n
+
+2. Neekevaru Lerani Em Cheyalevani\n
+Annaaraa Ninnu Niraashaparachaaraa\n
+Porugantivaadanani Eppatiki Inthenani\n
+Naa Brathuku Maaradani Anukuntoo Unnaavaa\n
+Nenunnaananna Yesu Maatalu Marichaavaa\n
+Kanneeru Naatyamga Maarchunu Choosthaavaa (2)    \n\n
+</item>
+<item>Chorus: Kanulunnaa Kaanaleni Chevulunnaa Vinaleni ||2||\n
+Manasunnaa Mathileni Sthithiyunnaa Gathileni ||2||\n
+Vaadanu Yesayyaa\n
+Odipoyina Vaadanu ||2||    \n\n
+1. Anni Unnaa Emi Leni\n
+Andaru Unna Ekaakini\n
+Daari Unnaa Kaanaraani\n
+Chenthanunnaa Cheraleni\n
+Yesayyaa Nannu Viduvakayyaa ||2||\n
+Dikku Leni Vaadanu\n
+Vaadanu Yesayyaa\n
+Chedaripoyina Goodunu ||2||           \n\n
+2. Bhaashalunnaa Bhaavamu Leni\n
+Aathma Unnaa Avivekini\n
+Bakthi Unnaa Shakthi Leni\n
+Praarthana Unaa Prema Leni\n
+Yesayyaa Nannu Karuninchumaa ||2||\n
+Phalamu Leni Vaadanu\n
+Vaasini Yesayyaa\n
+Peruku Maathrame Vishwaasini ||2||     \n\n
+3. Bodha Unnaa Brathuku Leni\n
+Pilupu Unnaa Prayaasapadani\n
+Seva Unnaa Saakshyamu Leni\n
+Sanghamu Unnaa Aathmalu Leni\n
+Yesayyaa Nannu Nimpumayyaa ||2||\n
+Aathma Leni Vaadani\n
+Paadirini Yesayyaa\n
+Maadiri Leni Kaaparini ||2||       \n\n
+</item>
+<item>Chorus: Kraisthavamoka Mathamu Kaadidi\n
+Yesunandu Thirigi Janmamu\n
+Kreesthunandu Thirigi Janmamu ||2||\n\n
+1. Dharala Thalli Daanamosagunu\n
+Thana Rakthamu Prathijanalamulo\n
+Andariki Jeevamosagenu\n
+Kaluvarilo Yesu Rakthamu ||2||\n
+Kaluvarilo Yesu Rakthamu\n\n
+2. Oka Janmaku Rendu Chaavulu\n
+Iru Janamalakokka Maraname ||2||\n
+Siluvyande Narakapu Chaavu\n
+Pondenesu Andarikoraku ||2||\n
+Pondenesu Andarikoraku    \n\n
+3. Bhuviki Moolamee Shareeramu\n
+Divini Chera Aathma Moolamu ||2||\n
+Mathamu Maarga Gnaanamu Veedi\n
+Marana Vijayudesu Cherumaa ||2||\n
+Marana Vijayudesu Cherumaa \n\n
+</item>
+<item>Chorus: Krotha Yedu Modalu Bettenu Mana Brathuku Nandu\n
+Krotha Yedu Modalu Bettenu\n
+Krotha Manasu Thoda Meeru Krotha Yeta Prabhuni Seva\n
+Thaththara Padakunda Jeyu Tuthamothamambu Jooda     \n\n
+1. Pondiyunna Melulanniyu Bonkambu Meera\n
+Dendamandu Smaran Jeyudi\n
+Indu Meeru Modalupettu Pandemandu Gelva Valayu\n
+Andamuganu Ravini Boli Alayakunda Melayakunda      \n\n
+2. Balamu Leni Vaaramayyunu Balamondavachchu\n
+Kalimi Meera Gartha Vaakkuna\n
+Alayakunda Aduguchunda Nalagakunda Modamondi\n
+Balamosangu Sarva Vidhula Nelami Meera Nochchuchunda  \n\n
+3. Paapa Pankamantinappudu Prabhu Kreesthu Yesu\n
+Praapu Jeri Meeru Vedagaa\n
+Sepu Meera Thanadu Karuna Paapamantha Kadigivesi\n
+Paapa Roga Chihnalanni Baapi Vesi Shudhdhi Cheyu      \n\n
+</item>
+<item>Chorus: Kummari O Kummari Jagathuthpaththidaari\n
+Jigata Mannaina Naa Vanka\n
+Challaga Choodumayyaa\n
+Aaa Aaa Aaa Challaga Choodumayyaa\n\n
+1.Panikiraani Paathranani Paaraveyakumaa\n
+Pongi Poralu Paathragaa Nannu Nimpumaa ||2||\n
+Suvaarthaloni Paathralanni\n
+Sree Yesuni Pogaduchunda\n
+Saakshiga Nundu Paathragajesi\n
+Sathyamutho Nimpumu Thandri\n
+Aaa Aaa Aaa Sathyamutho Nimpumu Thandri       \n\n
+2. Viluvaleni Paathranu Nenu\n
+Konuvaaru Lerevvaru\n
+Velaleni Needu Rakthambutho\n
+Velugondu Paathragajesi ||2||\n
+Aatankamulanundi Thappinchi Nannu\n
+Ellappudu Kaavumayyaa\n
+Pagiliyunna Paathranu Nenu\n
+Sarichesi Vaadumayyaa\n
+Aaa Aaa Aaa Sarichesi Vaadumayyaa    \n\n
+3. Lokaashatho Nindi Upponguchoo\n
+Maargambu Ne Dappithin\n
+Manushechchalanniyu Sthiramanuchune\n
+Manashaanthi Kolpothini ||2||\n
+Pogottukunna Pathrayanuchu\n
+Parugeththi Nanu Pattithivi\n
+Praanambu Naalo Unnappude\n
+Nee Paadambul Pattithin\n
+Aaa Aaa Aaa Nee Paadambul Pattithin  \n\n
+</item>
+<item>Chorus: Kuthoohalam Aarbhaatame Naa Yesuni Sannidhilo\n
+Aanandamaanandame Naa Yesuni Sannidhilo ||2||\n\n         
+1. Paapamantha Poyenu Rogamantha Poyenu\n
+Yesuni Rakthamulo\n
+Kreesthunandu Jeevitham Krupa Dvaaraa Rakshana\n
+Parishudhdha Aathmalo            \n\n
+2. Devaadhi Devudu Prathi Roju Nivasinche\n
+Devaalayam Nene\n
+Aathma Aina Devudu Mana Sonthamaayenu\n
+Aascharyamaascharyame           \n\n
+3. Shakthi Nichchu Yesu Jeevamichchu Yesu\n
+Jayampai Jayam Ichchunu\n
+Ekamugaa Koodi Hosanna Paadi\n
+Ooranthaa Chaatedamu                 \n\n
+</item>
+<item>Chorus: Lekkinchaleni Sthothramul\n
+Devaa Ellappudu Ne Paadedan\n
+Devaa Ellappudu Ne Paadedan ||2||\n
+Intha Varaku Naa Brathukulo\n
+Nuvvu Chesina Mellakai ||2||\n\n
+1. Aakaasha Mahaakaashamul\n
+Vaatiyandunna Sarvambunu ||2||\n
+Bhoomilo Kanabadunavanni\n
+Prabhuvaa Ninne Keerthinchun ||2||   \n\n
+2. Adavilo Nivasinchuvanni\n
+Sudigaaliyu Manchunu ||2||\n
+Bhoomipainunnavanni\n
+Devaa Ninne Pogadunu ||2||    \n\n
+3. Neetilo Nivasinchu Praanul\n
+Ee Bhuvilona Jeeva Raasulu ||2||\n
+Aakaashamunaa Eguravanni\n
+Prabhuvaa Ninne Keerthinchun ||2||   \n\n
+</item>
+<item>Chorus: Maargamu Choopumu Intiki Naa Thandri Intiki\n
+Maadhurya Prema Prapanchamo Choopinchu Kantiki ||2||\n\n
+1. Paapa Mamathala Chetha\n
+Paaripoyina Naaku – Praapthinche Kshaamamu\n
+Paschaaththappamunondi\n
+Thandri Kshama Korudu – Pampumu Kshemamu ||2||\n
+Prabhu Needu Siluva\n
+Mukhamu Chellani Naaku – Puttinche Dhairyamu ||2||  \n\n
+2. Doora Deshamulona\n
+Baagundunanukonuchu – Thappithi Maargamu\n
+Tharalipoyiri Nenu\n
+Nammina Hithulella – Tharime Daridryamu ||2||\n
+Daakshinya Moorthy\n
+Nee Daya Naapai Kuripinchi – Dhanyunni Cheyumu ||2||  \n\n
+3. Naa Thandri Nanu Joochi\n
+Parugidichoo Ethenchi – Naapaibadi Edchenu\n
+Nava Jeevamunu Goorchi\n
+Intiki Thodkoni Velli – Nannoo Deevinchenu ||2||\n
+Naa Jeevitha Kathayantha\n
+Yesu Premaku Dharalo – Saakshamai Yundunu ||2||    \n\n
+</item>
+<item>Chorus: Maaripovaali Ee Lokamanthaa\n
+Cheraraavaali Prabhu Yesu Chentha ||2||\n
+Manchi Manalona Penchaali Eppuduu ||2||\n
+Panchukovaali Paravaaritho        \n\n
+
+1. Manamu Velagaali Oka Divya Velugai ||2||\n
+Veliginchaali Ee Jagathinanthaa ||2||\n
+Kadali Raavaali Karunantha Manalo ||2||\n
+Karigipovaali Katinaathmulanthaa ||2||            \n\n
+2. Manamu Brathakaali Viluvaina Brathuku ||2||\n
+Brathikinchaali Prabhu Yesu Bodha ||2||\n
+Aadukovaali Nara Jaathinanthaa ||2||\n
+Andinchaali Prabhu Vaakyamentho ||2||          \n\n
+3. Manamu Nilavaali Maadirigaa Eppuduu ||2||\n
+Mahima Pondaali Prabhu Yesu Appudu ||2||\n
+Vinipinchaali Mana Saakshyamanthaa ||2||\n
+Kadilinchaali Hrudayaalananthaa ||2||            \n\n
+</item>
+<item>Chorus: Mahima Ghanathaku Arhudavu\n
+Neeve Naa Daivamu\n
+Srushtikartha Mukthi Daatha ||2||\n
+Maa Sthuthulaku Paathrudaa\n
+Aaraadhanaa Neeke Aaraadhanaa Neeke\n
+Aaraadhanaa Sthuthi Aaraadhanaa Aaraadhanaa Neeke ||2||\n
+Aaraadhanaa Neeke Aaraadhanaa Neeke\n\n
+1. Mannaanu Kuripinchinaavu\n
+Bandanundi Neellichchinaavu\n
+Yehovaa Eerae Choochukonunu\n
+Sarvamu Samakoorchunu             \n\n
+2. Vyaadhulanu Tholaginchinaavu\n
+Mruthulanu Mari Lepinaavu\n
+Yehovaa Raaphaa Swasthaparachunu\n
+Nanu Swasthaparachunu              \n\n
+</item>
+<item>Chorus: Mahonnathudaa Nee Krupalo Nenu Nivasinchuta\n
+Naa Jeevitha Dhanyathai Yunnadi\n
+Mahonnathudaa Nee Krupalo Nenu Nivasinchuta ||2|| \n\n
+1. Modubaarina Jeevithaalanu\n
+Chigurimpa Jeyagalavu Neevu ||2||\n
+Maaraa Anubhavam Madhuramugaa\n
+Maarchagalavu Neevu ||2||     \n\n
+2. Aaku Vaadaka Aathma Phalamulu\n
+Aanandamutho Phaliyinchanaa ||2||\n
+Jeeva Jalamula Oota Ainaa\n
+Nee Orana Nanu Naatithivaa ||2|| \n\n
+3. Vaadabaarani Swaasthyamu Naakai\n
+Paramandu Daachi Yunchithivaa ||2||\n
+Vaagdhaana Phalamu Anubhavimpa\n
+Nee Krupalo Nannu Pilachithivaa ||2||  \n\n
+</item>
+<item>Chorus: Moodunaalla Muchchata Kosam\n
+Ee Manishi Pade Thapana Choodaraa ||2||\n
+Neetibudagalaanti Jeevitham\n
+Ae Naadu Samasipovunno Erugam ||2||\n\n
+1. Manishiki Thana Manase Cherasaalaraa\n
+Mamathalu Mamakaaraalu Bandhaaluraa ||2||\n
+Vallakaati Varakeraa Bhavabandhaalu\n
+Nee Kallaaniki Cheravuraa Anubandhaalu ||2||\n
+Kallalaina Kalalu Maanuko\n
+Ellavelalaa Prabhuni Veduko ||2||  \n\n
+2. Indra Dhanussu Laantidoyi Samsaaramu\n
+Adi Kanipinchi Maayamaye Rangula Valayam ||2||\n
+Gaddipuvvulaantidoyi Ilalo Soukhyam\n
+Adi Paapaaniki Jeethamura Manishiki Maranam ||2||\n
+Nithyamaina Sukhamu Vedakaraa\n
+Nirathamu Prabhuni Koraraa ||2||  \n\n
+3. Thappidamulu Daachuvaadu Vardhilladu\n
+Avi Oppukoni Vidichipettu O Sodaraa ||2||\n
+Jigatagala Oobhinundi Paiki Lepi\n
+Nee Paadamulanu Sidhdhamugaa Nilupunu Prabhuvu ||2||\n
+Theerpu Theerchakabadakamunupe\n
+Thappaka Aa Prabhuni Koraraa ||2||  \n\n
+</item>
+<item>Chorus: Naa Jeevam Naa Sarvam Neeve Devaa\n
+Naa Korake Bali Aina Gorrepilla\n
+Naa Korake Raanunna O Messayya   ||Naa Jeevam||\n\n
+1. Thappipoyina Nannu Vedaki Rakshinchi\n
+Manchi Kaaparivai\n
+Naakai Praanamichchithivi ||2||\n
+Emivvagalanu Nee Enaleni Premakai\n
+Virigi Naligina Hrudayame Nenarpinthunu \n\n
+Neeve Neeve Neeve Devaa ||4||\n\n
+</item>
+<item>Chorus: Naa Kosamaa Ee Siluva Yaagamu\n
+Naa Kosamaa Ee Praana Thyaagamu (2)\n
+Kalvarilo Shramalu Naa Kosamaa\n
+Kalvarilo Siluva Naa Kosamaa (2)    \n\n
+1. Naa Chethulu Chesina Paapaanikai\n
+Naa Paadaalu Nadachina Vankara Throvalakai (2)\n
+Nee Chethulalo… Nee Paadaalalo…\n
+Nee Chethulalo Nee Paadaalalo\n
+Mekulu Guchchinaare (2)\n
+Yesayyaa Naakai Sahinchaavu\n
+Yesayyaa Naakai Bharinchaavu (2)   \n\n
+2. Naa Manassulo Chedu Thalampulakai\n
+Naa Hrudilo Chesina Avidheyathakai (2)\n
+Nee Shirassupai… Nee Shareeramupai…\n
+Nee Shirassupai Nee Shareeramupai\n
+Mullanu Guchchinaare (2)\n
+Yesayyaa Naakai Sahinchaavu\n
+Yesayyaa Naakai Bharinchaavu (2)    \n\n
+</item>
+<item>Chorus: Naa Praanaaniki Praanam Neevenayyaa\n
+Snehaaniki Nija Sneham Neevenayyaa\n
+Nija Snehaaniki Nirvachanam Neeve Yesayyaa       \n\n
+1. Praana Snehithulamani Bandhuvulu Snehithulu\n
+Kanneeti Samayamulo Ontarini Chesaaru ||2||\n
+Aasthulunna Velalo Akkuna Cheraaru\n
+Aapada Samayaalalo Anthu Lekapoyaaru\n
+Jantagaa Nilichithivi Naa Praanamaa\n
+Kanneeru Thudichithivi Naa Snehamaa\n
+Kanneeru Thudichithivi Naa Snehamaa\n
+Kanneeru Thudichithivi…               \n\n
+2. Neeve Naa Praanamani Kadavaraku Viduvanani\n
+Baasalanni Marachi Anaathagaa Nanu Chesaaru \n\n
+Nenunnaanantoo Naa Chenthana Cheraavu\n
+Evaru Vidachinaa Nanu Vidavanannaavu\n
+Jantagaa Nilichithivi Naa Praanamaa\n
+Kanneeru Thudichithivi Naa Snehamaa\n
+Kanneeru Thudichithivi Naa Snehamaa\n
+Kanneeru Thudichithivi…       \n\n
+</item>
+<item>Chorus: Naa Praanapriyudaa Yesu Raajaa\n
+Arpinthunu Naa Hrudayaarpana\n
+Virigi Naligina Aathmathonu\n
+Hrudayapoorvaka Aaraadhantho Sathyamugaa\n\n
+1. Adbhuthakarudaa Aalochana\n
+Aascharya Samadhaana Prabhuvaa\n
+Balavanthudaa Bahupriyudaa\n
+Manoharudaa Mahimaraajaa Sthuthinchedan    \n\n
+2. Vimochana Gaanamulatho\n
+Soundarya Prema Sthuthulatho\n
+Namaskarinchi Aaraadhinthun\n
+Harshinthunu Ne Paadedanu Naa Prabhuvaa   \n\n
+3. Garbhamuna Puttina Biddalan\n
+Karunimpaka Thalli Marachunaa\n
+Marachinagaani Neevennadu\n
+Maruvavu Viduvavu Edabaayavu Karuna Raajaa  \n\n
+4. Rakshanaalankaaramulanu\n
+Akshayamagu Nee Yaahaaramun\n
+Rakshakudaa Naakosagithivi\n
+Deekshatho Ninnu Veekshinchuchu Sthuthinthunu  \n\n
+5. Nee Neethini Nee Rakshananu\n
+Naa Oedavulu Prakatinchunu\n
+Kruthagnathaa Sthuthulathoda\n
+Nee Premanu Ne Vivarinthunu Vimochakaa   \n\n
+6. Vaagdhaanamul Naalo Neraverenu\n
+Vimochinchi Naakichchithive\n
+Paadedanu Praharshinthunu\n
+Hallelooyaa Hallelooyaa Hallelooyaa   \n\n
+</item>
+<item>Chorus: Naadantoo Lokaana Edi Ledayya\n
+Okavela Undante Neevichchanade Prabhuvaa ||2||\n
+Neede Neede Brathukanthaa Neede ||2||    \n\n
+1. Naaku Unna Saamardhyam\n
+Naaku Unna Soukaryam\n
+Naaku Unna Soubhaagyam\n
+Naaku Unna Santhaanam ||2||\n
+Aaraginche Aahaaram\n
+Anubhavinche Aarogyam ||2||\n
+Kevalam Needenayya ||2||     \n\n
+2. Naaku Unna Ee Balam\n
+Naaku Unna Ee Polam\n
+Thraaguchunna Ee Jalam\n
+Niluva Needa Ee Gruham\n
+Nilachiyunna Ee Sthalam\n
+Brathukuchunna Prathii Kshanam\n
+Kevalam Needenayya ||2||     \n\n
+</item>
+<item>Chorus: Naadu Jeevamaayene Naa Samasthamu\n
+Naa Sarvasvamesuke Naadu Jeevamu\n
+Naadu Daivamu Divi Divya Thejamu ||2||            \n\n
+1. Krungina Vela – Bhangapadina Vela – Naa Dariki Cherenu\n
+Chukkaani Leni – Naava Vale Nenunda – Addariki Cherchenu\n
+Aathmatho Nimpenu – Aalochana Cheppenu ||2||              \n\n
+2. Saathaanu Bandheenai – Kumuluchunna Vela – Vidipinchenu Shree Yesudu\n
+Rakthamantha Kaarchi – Praanaanni Balichesi – Vimochana Dayachesenu\n
+Saathaanuni Anagadrokka – Adhikaaram Balamichchenu ||2||           \n\n
+3. Kaaru Meghaalenno – Krammina Vela – Neethisuryudu Nadupunu\n
+Thoophaanulenno – Chelaregi Lechinanu – Nadupunu Naa Jeevitha Naava\n
+Thvaralo Prabhu Digivachchunu – Tharali Podunu Prabhunitho ||2||       \n\n
+</item>
+<item>Chorus: Naatho Maatlaadu Prabhuvaa – Neeve Maatlaadumayyaa ||2||\n
+Neevu Palikithe Naaku Melayyaa    ||2||\n
+Nee Darshaname Naaku Chaalayyaa    ||2|||\n\n
+1. Nee Vaakyame Nannu Brathikinchedi\n
+Naa Baadhalalo Nemmadinichchedi ||2||        \n\n
+2. Nee Vaakyame Swasthatha Kaliginchedi\n
+Naa Vedanalo Aadaranichchedi ||2||           \n\n
+3. Nee Vaakyame Nannu Nadipinchedi\n
+Naa Maargamulo Naaku Velugichchedi ||2||        \n\n
+</item>
+<item>Chorus: Nadipinchu Naa Naavaa – Nadi Sandramuna Devaa\n
+Nava Jeevana Maargamuna – Naa Janma Thariyimpa     \n\n
+1. Naa Jeevitha Theeramuna – Naa Apajaya Bhaaramuna\n
+Naligina Naa Hrudayamunu – Nadipinchumu Lothunaku\n
+Naa Yaathma Virabooya – Naa Deeksha Phaliyimpa\n
+Naa Naavalo Kaalidumu – Naa Seva Chekonumu            \n\n
+2. Raathranthayu Shramapadinaa – Raaledu Prabhu Jayamu\n
+Rahadaarulu Vedakinanoo – Raadaayenu Prathiphalamu\n
+Rakshinchu Nee Siluva – Ramaneeya Lothulalo\n
+Rathanaalanu Vedakutalo – Raajillu Naa Padava            \n\n
+3. Aathmarpana Cheyakaye – Aashinchiti Nee Chelimi\n
+Ahamunu Preminchuchune – Arasithi Prabhu Neekalimi\n
+Aasha Nirashaye – Aavedha Nedhuraye\n
+Aadhyathmika Lemigani – Allade Naa Valalu                   \n\n
+4. Prabhu Maargamu Vidachithini – Prardhinchuta Maanithini\n
+Parbhu Vaakyamu Vadhalithini – Paramardhamu Marachithini\n
+Prapancha Natanalalo – Praveenyamunu Pondhi\n
+5. Phala Heenudanai Ipudu – Paatinthu Nee Maata            \n\n
+Lothaina Jalamulalo – Lothuna Vinabadu Swaramaa\n
+Lobadutanu Nerpinchi – Lopambulu Savarinchi\n
+Lonunna Eevulalo – Lothaina Naa Brathuku\n
+Lopinchani Arpanagaa – Lokesha Cheyumayaa              \n\n
+6. Prabhu Yesuni Shishyudanai – Prabhu Premalo Paadukoni\n
+Prakatinthunu Lokamulo – Parishudhdhuni Prema Katha\n
+Paramaathma Prokshanatho – Paripoorna Samarpanatho\n
+Praanambunu Prabhu Koraku – Praanaarpanamu Chethu  \n\n
+</item>
+<item>Chorus: Najareyudaa Naa Yesayya\n
+Enni Yugaalakainaa\n
+Aaraadhya Daivamu Neevenani\n
+Galameththi Nee Keerthi Ne Chaateda       \n\n
+1. Aakaasha Gaganaalanu Nee Jenatho Kolichithivi ||2||\n
+Shoonyamulo Ee Bhoomini\n
+Vrelaadadeesina Naa Yesayya ||2||\n
+Neeke Vandanam Neeke Vandanam ||2||         \n\n
+2. Agaadha Samudraalaku Neeve Ellalu Vesithivi\n
+Jalamulalobadi Ne Vellinaa\n
+Nannemi Cheyavu Naa Yesayyaa ||2||\n
+Neeke Vandanam Neeke Vandanam ||2||        \n\n
+3. Seeyonu Shikharaagramu Nee Simhaasanamaayenaa\n
+Seeyonulo Ninu Choodaalani\n
+Aashatho Unnaanu Naa Yesayyaa ||2||\n
+Neeke Vandanam Neeke Vandanam ||2||         \n\n
+</item>
+<item>Chorus: Nammakamaina Naa Snehithudu\n
+Naa Prabhu Yesudu ||2||\n
+Edabaayanivaadu Viduvanivaadu ||2||\n
+Ninna Nedu Okatiganunnavaadu        \n\n
+1. Aapadalo Aanandamulo Nanu Veedanivaadu ||2||\n
+Vyaadhilo Bhaadhalo ||2||\n
+Nanu Swasthaparachuvaadu\n
+Anukshanam Naa Prakkana Nilachi\n
+Prathikshanam Naa Praanam Kaachi ||2||\n
+Annivelala Nannaadarinchuvaadu ||2||\n
+Naa Priya Snehithudu Naa Praana Hithudu ||2||        \n\n
+2. Kalimilo Lemilo Nanu Karuninchuvaadu ||2||\n
+Kalathalalo Kanneellalo ||2||\n
+Nanu Odaarchuvaadu\n
+Kanna Thallini Minchina Prematho\n
+Arachethilo Nanu Daachinavaadu ||2||\n
+Ennadu Nannu Maruvanivaadu ||2||\n
+Naa Priya Snehithudu Naa Praana Hithudu ||2||         \n\n
+</item>
+<item>Chorus: Ne Saageda Yesunitho\n
+Naa Jeevitha Kaalamanthaa ||2||\n\n
+1. Yesutho Gadipeda Yesutho Nadicheda ||2||\n
+Paramunu Cheraga Ne Velleda ||2||\n
+Hanoku Vale Saagedaa   \n\n
+2. Venuka Shathruvulu Ventaadinanoo ||2||\n
+Mundu Samudramu Edurochchinaa ||2||\n
+Moshe Vale Saagedaa     \n\n
+3. Lokapu Shramalu Nannedirinchinaa ||2||\n
+Katinulu Raallatho Himsinchinaa ||2||\n
+Stephanu Vale Saagedaa     \n\n
+4. Brathukuta Kreesthe Chaavainaa Mele ||2||\n
+Kreesthukai Katha Saakshigaa Maarina ||2||\n
+Poulu Vale Saagedaa \n\n
+5. Thalli Marachina Thandri Vidachina ||2||\n
+Bandhuvule Nannu Velivesinaa ||2||\n
+Balavanthuni Vale Saagedaa   \n\n
+</item>
+<item>Chorus: Nedo Repo Naa Priyudesu\n
+Meghaalameeda Ethenchunu\n
+Mahimaanvithudai Prabhu Yesu\n
+Mahee Sthalamunaku Ethenchunu      \n\n
+1. Cheekati Kammunu Suryuni\n
+Chandrudu Thana Kaanthineeyadu ||2||\n
+Nakshathramulu Raalipovunu\n
+Aakaasha Shakthulu Kadilipovunu ||2||  \n\n
+2. Kadaboora Swaramu Dhvaniyinchagaa\n
+Priyuni Swaramu Vinipinchagaa ||2||\n
+Vadivadiga Prabhu Chenthaku Cheredaa\n
+Priyamaara Prabhuyesuni Gaancheda ||2||  \n\n
+3. Naa Priyudesuni Sannidhilo\n
+Vedana Rodanalundavu ||2||\n
+Hallelooyaa Sthuthigaanaalatho\n
+Nithyam Aanandamaanandame ||2||    \n\n
+</item>
+<item>Chorus: Nee Chethilo Rottenu Nenayya\n
+Viruvu Yesayyaa ||2||\n
+Viruvu Yesayyaa\n
+Aasheervadinchu Yesayyaa ||2||         \n\n
+1. Thandri Intinundi Pilichithivi Abraamunu\n
+Aasheervadinchithivi\n
+Abrahaamuga Maarchithivi ||2||    \n\n
+2. Ala Yaakobunu Neevu Pilichithivi Aanaadu\n
+Aasheervadinchithivi\n
+Ishraayeluga Maarchithivi ||2|| \n\n
+3. Himsakudu Dooshakudu Haanikarudaina\n
+Soulunu Virichithivi\n
+Pouluga Maarchithivi ||2||           \n\n
+</item>
+<item>Chorus: Nee Chethitho Nannu Pattuko\n
+Nee Aathmatho Nannu Nadupu\n
+Shilpi Chethilo Shilanu Nenu\n
+Anukshanamu Nannu Chekkumu\n
+Nannu Chekkumu\n\n
+1. Andhakaara Loyalona\n
+Sancharinchinaa Bhayamu Ledu\n
+Nee Vaakyam Shakthigaladi\n
+Naa Throvaku Nithya Velugu ||2||\n
+Nithya Velugu\n\n
+2. Ghorapaapini Nenu Thandri\n
+Paapa Oobhilo Padiyuntini\n
+Levaneththumu Shudhdhi Cheyumu\n
+Pondanimmu Needu Premanu ||2||\n
+Needu Premanu\n
+3. Ee Bhuvilo Raaju Neeve\n
+Naa Hrudilo Shaanthi Neeve\n
+Kummarinchumu Needu Aathmanu\n
+Jeevithaanthamu Seva Chesedan ||2||\n
+Seva Chesedan          \n\n
+</item>
+<item>Chorus: Nee Dhanamu Nee Ghanamu Prabhu Yesude\n
+Nee Dashama Bhaagamu Neeya Venudeethuvaa\n
+1. Dharalona Dhana Dhaanyamula Neeyagaa\n
+Karuninchi Kaapaadi Rakshimpagaa ||2||\n
+Paraloka Naathundu Neekeeyagaa\n
+Mari Yesu Korakeeya Venudeethuvaa       \n\n
+2. Paadipantalu Prabhuvu Neekeeyagaa\n
+Koodu Guddalu neeku Dayacheyagaa ||2||\n
+Vedanga Prabhu Yesu Naamambunu\n
+Gaduvela Prabhukeeyano Kraisthavaa     \n\n
+3. Velugu Needalu Gaali Varshambulu\n
+Kaliginche Prabhu Neeku Uchithambugaa ||2||\n
+Veligincha Dharapaini Prabhu Naamamu\n
+Kalimikoladi Prabhuna Karpimpavaa            \n\n
+3. Kaliginche Sakalambu Samrudhdhigaa\n
+Tholaginche Palubaadha Bharithambulu\n
+Baliyaaye Nee Paapamula Kesuve\n
+Cheluvanga Prabhukeeya Chinthinthuvaa      \n\n
+</item>
+<item>Chorus: Nee Premaa Nee Karunaa\n
+Chaalunayyaa Naa Jeevithaana\n
+Mari Denini Aashinchanu\n
+Ne Koranu Ee Jagaana\n
+Chaalayya Chaalu Ee Deevenalu Chaalu\n
+Melayya Melu Nee Sannidhi Melu ||2||\n
+1. Gurileni Nannu Gurthinchinaave\n
+Enaleni Premanu Choopinchinaave\n
+Velaleni Naaku Viluvichchinaave\n
+Viluvaina Paathraga Nanu Maarchinaave    \n\n
+2. Chejaarina Naakai Chechaachinaave\n
+Chedarina Naa Brathukunu Cheradeesinaave\n
+Cheranundi Nannu Vidpinchinaave\n
+Cheragani Nee Premaku Saakhshiga Maarchaave  \n\n
+3.Narakapu Polimeralo Nanu Kanugonnaave\n
+Kalvarilo Praanamichchi Nanu Konnaave\n
+Nee Premanu Prakatimpa Nanu Ennukonnaave\n
+Nee Kumaarunigaa Nanu Maarchinaave        \n\n
+</item>
+<item>Chorus: Nee Rakthame Nee Rakthame\n
+Nan Shudhdheekarinchun\n
+Nee Rakthame Naa Balamu ||2||\n\n
+1. Nee Raktha Dhaarale Ila\n
+Paapikaashrayambichchunu ||2||\n
+Parishudhdha Thandri Paapini\n
+Kadigi Pavithra Parachumu ||2||       \n\n
+2. Nashinchu Vaariki Nee Siluva\n
+Verrithanamugaa Nunnadi ||2||\n
+Rakshimpabaduchunna Paapiki\n
+Devuni Shakthiyai Yunnadi ||2||     \n\n
+3. Nee Silvalo Kaarchinatti\n
+Viluvaina Rakthamuche ||2||\n
+Paapa Vimukthi Chesithivi\n
+Parishudhdha Deva Thanayudaa ||2||     \n\n
+4. Pandi Vale Porlina Nannu\n
+Kukka Vale Thirigina Nannu ||2||\n
+Prematho Cherchukontivi\n
+Premaarha Neeke Sthothramu ||2||    \n\n
+5. Nannu Vembadinchu Saithaanun\n
+Nannu Bedarinchu Saithaanun ||2||\n
+Dunumaadedi Nee Rakthame\n
+Dahinchedi Nee Rakthame ||2||     \n\n
+6. Sthuthi Mahima Ghanathayu\n
+Yugayugambulakunu ||2||\n
+Sthuthi Paathra Neeke Chellunu\n
+Sthothraarhudaa Neeke Thagunu ||2||       \n\n
+</item>
+<item>Chorus: Nee Roopu Chooda Nenaashapadithi\n
+Nee Darshanamune Ne Korukunti ||2||\n
+Nee Sundara Roopamu Choopinchu Devaa\n
+Nee Mellani Swaramunu Vinipinchu Prabhuvaa\n
+Hallelooya Hallelooya Hallelooya Hallelooya\n
+Aamen Hallelooya Aamen Hallelooya ||2||\n
+
+1. Padivelamandilo Athi Sundarudaa\n
+Paralokanaathaa Athikaankshaneeyudaa ||2||\n
+Naa Aasha Theeraganu Ninnu Nenu Choodaali ||2||\n
+Madhuraathi Madhurambau Nee Swaramu Vinaali ||2||        \n\n
+2. Nee Sannidhilo Sukha Shaanthi Dorike\n
+Nee Maatathone Jeevambu Kalige ||2||\n
+Nee Thodu Needalo Naa Brathuku Saagaali ||2||\n
+Nee Darahaasamulo Nenedigi Povaali ||2||      \n\n
+</item>
+<item>Chorus: Nee swaramu veneepiinchu prabhuvaa nee dhaasu daalakin chunn (2)\n
+Nee vakyamunu neir pinchumu \n
+Dhani yandhu naduchunatlu neethoo \n
+Nee swaramu veneepiinchu prabhuvaa nee dhaasu daalakin chunn (2)\n\n
+
+1. Udayamune lechi nee swaramu veenuta naaku yentho madhuramu \n
+Deenamanthati koraku nannu siddhaparachu rakshinchu apadhalanundi \n
+rakshinchu apadhalanundi \n\n
+
+
+2. Nee vakyamu chadhivi nee swaramu veenuchu sari chesukon dhu \n
+nee maragmulo naduchuatlugaa nerpinchumu yellapudu \n
+nerpinchumu yellapudu \n\n
+
+3. Bhaya bheethulalo thupanulalo nee swaramu veenipiinchumu \n
+Bhayamu nimmu oh! Goppa deva dhairya parachu mu nannu \n
+dhairya parachu mu nannu \n\n
+
+
+4. Natho matladu spastamuga prabhuva nee swaramu na korake \n
+Neetho manushalatho sarichesukondhu nee diyva vakyamu dwaraa \n
+nee diyva vakyamu dwaraa \n\n
+
+
+5. Neir chu konnanu naa shramaswara - nee vakyamu yenthoo \n
+Nannuchumu prabhuva nee viswasyathalo nee yandhu naduchunatlu \n
+nee yandhu naduchunatlu \n\n
+
+6. Naa hrudhayamulonee chedu thalampulanu chedhinchu nee vakyam. \n
+Nee repamanku marchumu nannu nedhu mahima korake. \n
+nedhu mahima korake. \n\n
+</item>
+<item>Chorus: Neevennaallu Rendu Thalampulatho\n
+Kunti Kunti Nadichedaveevu\n
+Yehovaaye Nee Devudaa\n
+Leka Vere Devathalunnaaraa ||2||\n
+1. Manam Theermaaninchedamippude\n
+Mana Nota Vanchana Lekundaa ||2||\n
+Marugaina Paapamulannitin\n
+Hrudayamunundi Tholaginchedam ||2||       \n\n
+2. Maaru Manassu Pondedamippude\n
+Jeevitha Mosamulanundi ||2||\n
+Parishudhdhulamai Nirdoshulugaa\n
+Prabhu Dinamandu Kanabadedam ||2||     \n\n
+3. Nenu Naa Intivaaralamu\n
+Yehovaane Sevinchedamu ||2||\n
+Neevevarini Sevinchedavo\n
+Ee Diname Theermaaninchuko ||2||    \n\n
+</item>
+<item>Chorus: Neevu Chesina Upakaaramulaku\n
+Nenemi Chellinthunu ||2||\n
+Aedaadi Doodelanaa… Velaadi Pottellanaa ||2||  \n\n
+1. Velaadi Nadulantha Visthaara Thailamu\n
+Neekichchinaa Chaalunaa ||2||\n
+Garbha Phalamina Naa Jeshtya Puthruni\n
+Neekichchinaa Chaalunaa ||2||    \n\n
+2. Maranapaathrudanaiyunna Naakai\n
+Maraninchithiva Siluvalo\n
+Karuna Choopi Nee Jeeva Maargaana\n
+Nadipinchumo Yesayyaa ||2||   \n\n
+3. Ee Goppa Rakshana Naakichchinanduku\n
+Neekemi Chellinthunu\n
+Kapata Natanaalu Lenatti Hrudayaanni\n
+Arpinchinaa Chaalunaa  ||2||  \n\n
+</item>
+<item>Chorus: Neevunte Naaku Chaalu Yesayyaa\n
+Neevente Nenu Untaanesayyaa ||2||\n
+Nee Maata Chaalayyaa Nee Choopu Chaalayyaa\n
+Nee Thodu Chaalayyaa Nee Needa Chaalayyaa ||2||  \n\n
+1. Enni Bhaadhalunnanoo Ibbandulainanoo\n
+Entha Kashtamochchinaa Nishtooramainanoo ||2||     \n\n
+2. Brathuku Naava Pagilinaa Kadali Paalainanoo\n
+Alalu Munchi Vesinaa Aashalu Anagaarinaa ||2||     \n\n
+3. Aasthulanni Poyinaa Anaathagaa Migilinaa\n
+Aapthule Vidanaadinaa Aarogyam Ksheeninchinaa ||2|| \n\n
+4. Neeku Ilalo Ediyu Ledu Asaadhyamu\n
+Needu Krupatho Naakemiyu Kaadila Samaanamu ||2||   \n\n
+</item>
+<item>Chorus: Ninna Nedu Nirantharam Maarane Maaravu\n
+Naa Gnaapakaalalo Cheragani Vaadavu ||2||\n
+Neeve Neeve Nammadaginaa Devudavu\n
+Neevu Naa Pakshamai Nilicheyunnaavu ||2||\n\n
+1. Yesayyaa Nee Prathyakshathalo\n
+Bayalupadene Shaashwathaa Krupa Naakai ||2||\n
+Viduvade Nannellappudoo Krupa\n
+Vijayapathamuna Nadipinchene Krupa ||2||\n
+Vistharinchene Ninnu Sthuthinchinappudu         \n\n
+2. Yesayyaa Nee Krupaathishayamu\n
+Aadarinchene Shaashwatha Jeevamukai ||2||\n
+Maruvade Nannellappudoo Krupa\n
+Maanikya Manulanu Maripinchene Krupa ||2||\n
+Maimarachithine Nee Krupa Thalanchinappudu      \n\n
+3. Yesayyaa Nee Mahimaishwaryamu\n
+Choopene Nee Dheergashaanthamu Naapai ||2||\n
+Aadukune Nannellappudoo Krupa\n
+Shaanthi Samaramu Chesene Krupa ||2||\n
+Mahimonnathamu Pondithi Prashaanthathalone      \n\n
+</item>
+<item>Chorus: Ninne Ninne Nammukunnaanayya\n
+Nannu Nannu Veedipokayyaa ||2||\n
+Nuvvu Leka Nenu Brathukalenayya\n
+Neevunte Naaku Chaalu Yesayya ||2||       \n\n
+1. Kannulo Kanneellu Goodu Kattinaa\n
+Kannavaare Kaadani Nannu Nettinaa ||2||\n
+Kaaru Cheekatule Nannu Kamminaa\n
+Katinaathmulendaro Nannu Kottinaa ||2||\n
+Katinaathmulendaro Nannu Kottinaa         \n\n
+2. Cheyani Neramulantakattinaa\n
+Chethakaani Vaadanani Cheedarinchinaa ||2||\n
+Cheeku Chinthalu Nannu Chuttinaa\n
+Chelime Chithiki Nannu Cherchinaa ||2||\n
+Chelime Chithiki Nannu Cherchinaa           \n\n
+</item>
+<item>Chorus: Ninne Preminthunu Ninne Preminthunu\n
+Ninne Preminthunu Yesu\n
+Ne Venudirugaa\n
+Nee Sannidhilo Mokarinchi\n
+Nee Maargamulo Saagedaa\n
+Nirasinchaka Saagedaa\n
+Ne Venudirugaa\n\n
+
+1. Ninne Poojinthunu Ninne Poojinthunu\n
+Ninne Poojinthunu Yesu\n
+Ne Venudirugaa        ||Nee Sannidhilo||\n\n
+2. Ninne Keerthinthunu Ninne Keerthinthunu\n
+Ninne Keerthinthunu Yesu\n
+Ne Venudirugaa        ||Nee Sannidhilo||\n\n
+3. Ninne Dhyaaninthunu Ninne Dhyaaninthunu\n
+Ninne Dhyaaninthunu Yesu\n
+Ne Venudirugaa        ||Nee Sannidhilo||\n\n
+4. Ninne Aaraadinthun Ninne Aaraadinthun\n
+Ninne Aaraadinthun Yesu\n
+Ne Venudirugaa        ||Nee Sannidhilo||\n\n
+</item>
+<item>Chorus: Ninu Choose Kannulu Naaku Immayyaa\n
+Ninu Piliche Pedavulu Immu Yesayyaa ||2||\n
+Ninu Chere Paadamulu Naaku Ivvayyaa ||2||\n
+Nee Maata Vine Chevulu Immu Yesayyaa         \n\n
+1. Kanneeti Praarthana Naaku Nerpayyaa\n
+Aathmala Sampada Naaku Ivvayyaa ||2||\n
+Nee Korake Jeevinche Saakshiga Maarchayyaa\n
+Naalone Ninu Choope Madirinivvayyaa              \n\n
+2. Andaritho Sakhyatha Immu Yesayyaa\n
+Mruduvaina Maatatheeru Naaku Ivvayyaa ||2||\n
+Kopathaapamulu Dooraparachayyaa\n
+Andarini Kshamiyinche Manassunivvayyaa        \n\n
+</item>
+<item>Chorus: Nithyamu Sthuthinchinaa\n
+Nee Runamu Theerchalenu\n
+Samasthamu Neekichchinaa\n
+Nee Thyaagamu Maruvalenu ||2||\n
+Raajaa Raajaa Raajaadhi Raajuvu Neevu\n
+Devaa Devaa Devaadi Devudavu ||2||     \n\n
+1. Advitheeya Devudaa\n
+Aadi Anthamulai Yunnavaadaa ||2||\n
+Angalaarpunu Naatyamugaa\n
+Maarchivesina Maa Prabhu ||2||   \n\n
+2. Jeevamaina Devudaa\n
+Jeevamichchina Naathudaa ||2||\n
+Jeevajalamula Bugga Yoddaku\n
+Nannu Nadipina Kaapari ||2||  \n\n
+3. Maarpuleni Devudaa\n
+Maaku Saripoyinavaadaa ||2||\n
+Maatathone Srushtinanthaa\n
+Kalugajesina Poojyudaa ||2||     \n\n
+</item>
+<item>Chorus: Nityu dai na Devuni thodu needa \n
+Nee pei nundunuu.. nethyamu niil chunu (3)\n\n
+
+1. Erra samudramunu. yedaari cheyunuu (2)\n
+Maranu jelamulanu.. Maadhuryamuga jeyunnu (2)\n\n
+
+
+2. Pharaoh sainyamulu .. parushaa lu palkinanuu (2)\n
+Pravaaha jelamulalo Padi chava jesenuu (2)\n\n
+
+
+3. Bhalavanthudaina Devudu.. Ella kaa..lamu bhalamichunu (2)\n
+Margaana Nadipinchunu.. Maana tho poshinchunuu (2)\n\n
+</item>
+<item>Chorus: O Sadbhaktulaaraa – Loka Rakshakundu\n
+Bethlehemandu Nedu Janminchen\n
+Raajaadhi Raaju – Prabhuvaina Yesu\n
+Namaskarimpa Randi Namaskarimpa Randi\n
+Namaskarimpa Randi Utsaahamutho\n\n
+1. Sarveshvarundu – Nara Roopameththi\n
+Kanyaku Butti Nedu Venchesen\n
+Maanava Janma – Meththina Sree Yesoo\n
+Neeku Namaskarinchi Neeku Namaskarinchi\n
+Neeku Namaskarinchi Poojinthumu\n\n
+2. O Doothalaaraa – Utsaahinchi Paadi\n
+Rakshakundaina Yesun Sthuthinchudi\n
+Paraathparundaa – Neeku Sthothramanchu\n
+Namaskarimpa Randi Namaskarimpa Randi\n
+Namaskarimpa Randi Utsaahamutho\n\n
+3. Yesu Dhyaaninchi – Nee Pavithra Janma\n
+Ee Vela Sthothramu Narpinthumu\n
+Anaadi Vaakya – Maaye Nara Roopa\n
+Namaskarimpa Randi Namaskarimpa Randi\n
+Namaskarimpa Randi Utsaahamutho\n
+</item>
+<item>Chorus: O Yesu Nee Prema Entho Mahaaneeyamu\n
+Aakasha Thaara Parvatha Samudra-mula Kanna Goppadi (2)  \n\n
+
+1. Agamya Aanandame Hrudayamu Nindenu\n
+Prabhuni Kaaryamulu Gambheeramainavi\n
+Prathi Udaya Sayanthramulu –\n
+Stuthiki Yogyamulu (2)            \n\n
+
+2. Sankata Samayamulo Saagalekunnaanu\n
+Dayachoopu Naa Meedaa Ani Nenu Morra Pettagaa\n
+Vintinantivi Naa Moraku Munde –\n
+Thodu Nundunantivi (2)            \n\n
+
+3.Koduvalenni Yunnaa- Bhayapadanu Ne Nepudu\n
+Pachika Bayalulo Parunda Jeyunu\n
+Bhojana Jalamulatho Thrupthiparachu –\n
+Naatho Nundunesu (2)            \n\n
+4. Devuni Gruhamulo Sadaa Sthuthinchedanu\n
+Sampoorna Hrudayamutho Sadaa Bhajinchedanu\n
+Sthuthi Prashamsa-laku Yogyudesu –\n
+Hallelooyaa Amen (2)               \n\n
+</item>
+<item>Chorus: Oohinchaleni Melulatho Nimpina\n
+Naa Yesayyaa Neeke Naa Vandanam ||2||\n
+Varninchagalanaa Nee Kaaryamul\n
+Vivarinchagalanaa Nee Melulan ||2||             \n\n
+1. Melutho Naa Hrudayam Thrupthiparachinaavu\n
+Rakshana Paathranichchi Ninu Sthuthiyinthunu ||2||\n
+Israyelu Devudaa Naa Rakshakaa\n
+2. Sthuthiyinthunu Nee Naamamun ||2||        \n\n
+Naa Deenasthithini Neevu Maarchinaavu\n
+Naa Jeevithaaniki Viluvanichchinaavu ||2||\n
+Nee Krupaku Nannu Aahvaninchinaavu\n
+Nee Sannidhi Naaku Thodunichchinaavu ||2||       \n\n
+</item>
+<item>Chorus: Oranna Oranna\n
+Yesuku Saati Vere Leranna Leranna\n
+Yese Aa Daivam Choodannaa Choodannaa\n
+Yese Aa Daivam Choodannaa\n
+1. Charithraloniki Vachchaadannaa – Vachchaadannaa\n
+Pavithra Jeevam Thechaadannaa – Thechaadannaa ||2||\n
+Advitheeyudu Aadi Devudu\n
+Aadarinchenu Aadukonenu      \n\n
+2. Paramunu Vidachi Vachchaadannaa – Vachchaadannaa\n
+Narulalo Narudai Puttaadannaa – Puttaadannaa ||2||\n
+Parishudhdhudu Paavanudu\n
+Preminchenu Praanamichchenu  \n\n
+3. Siluvalo Praanam Pettaadannaa – Pettaadannaa\n
+Maranam Gelichi Lechaadannaa – Lechaadannaa ||2||\n
+Mahima Prabhoo Mruthyunjayudu\n
+Kshamiyinchunu Jayamichchunu  \n\n
+</item>
+<item>Chorus: Paadedhamu vededhamu yesu naamamu \n
+Vededhamu koniyaadedhamu kristhu naaammamu (2)\n\n
+
+1. Eeloka mandhuna andhakaramandhu naa (2)\n
+Deva neve naaku divya myna jyothivi (2)
+\n\n
+
+2 Shremalenni vachii naa bhadhamlenni chuttinaa (2)\n
+Devaa neve naaku ashrayamu durgamu (2)\n\n
+
+
+3. Eeloka ashalan venadanaade manasu nu--- (2)\n
+Devaa neve naaku daya cheyumu denadenam. (2)\n\n
+</item>
+<item>Chorus: Padivelalo Athipriyudu\n
+Sameepincharaani Thejonivaasudu\n
+Aa Momu Varninchalemu\n
+Sthuthula Simhaasanaasenudu\n
+Naa Prabhu Yesu ||4||\n\n
+1. Ae Bedhamu Ledu Aa Choopulo\n
+Ae Kapatamu Ledu Aa Premalo ||2||\n
+Jeevithamulanu Veliginche Swaram\n
+Kanneeru Thudiche Aa Hasthamu ||2||\n
+Andhakaaramlo Kaanthi Deepam\n
+Kashtaalalo Priyanestham ||2||\n
+Naa Prabhu Yesu ||2||      \n\n
+2. Dongalatho Kalipi Siluvesinaa\n
+Momuna Ummi Vesinaa ||2||\n
+Thaanu Swasthaparachina Aa Chethule\n
+Thana Thanavunu Koradaalatho Dunninaa ||2||\n
+Aa Choopulo Entho Prema\n
+Premaamoorthy Atadevaro Thelusaa ||2||\n
+Naa Prabhu Yesu ||2||    \n\n
+</item>
+<item>1. Parama jeevamu naaku-nivva thirigi lechenu naatho nunda, \n
+Nirantha-raamu nadipinchunu, marala vachi yesu koni-povunnu \n\n
+
+Chorus: Yesu chaalunu (2)\n
+Ye samayaa-myna ye sthithi-kaina \n
+Naa jeevithamulo Yesu chaalunu \n\n
+
+2. Saathanu shodhana adhika-myna sommasillaka saagi velledhanu \n
+Lokamu shariramu laaginanu - lobadaka nenu velledhanu Yesu chaalunu \n\n
+
+3 Pachika bhayalulo parunda jeyun shanthi jelamu-chentha nadi-pinchunu \n
+Anishamu praanamu thrupthi parachun marana-loyalo nannu kaapadunu ...Yesuchaalunu \n\n
+
+4. Narulellaru nannu vidichinanu shariramu kulli-krushin-chinanu \n
+Harinchinan-naa aishwaryamu virodhi-vale nannu vidichinanu Yesu chaalunu\n\n
+
+</item>
+<item>Chorus: Parishudhdha Parishudhdha – Parishudhdha Prabhuvaa (2)\n
+Vara Doothalainaa Nin – Varnimpa Galaraa\n
+Vara Doothalainaa Nin (3) Varnimpa Galaraa\n\n
+1. Parishudhda Janakuda – Paramaathma Roopuda (2)\n
+Nirupama Bala Budhdhi – Neethi Prabhaavaa\n
+Nirupama Bala Budhdhi (3) Neethi Prabhaavaa\n\n
+2. Parishudhdha Thanayuda – Nara Roopa Dhaaruda (2)\n
+Narulanu Rakshinchu – Karunaa Samudraa\n
+Narulanu Rakshinchu (3) Karunaa Samudraa\n\n
+3. Parishudhdha Magu Naathma – Varamu Lidu Naathma (2)\n
+Paramaananda Prema – Bhakthula Kidumaa\n
+Paramaananda Prema (3) Bhakthula Kidumaa\n\n
+4. Janaka Kumaaraathma – Lanu Neka Deva (2)\n
+Ghana Mahima Chellunu – Danara Nithyamugaa\n
+Ghana Mahima Chellunu (3) Danara Nithyamugaa\n\n
+</item>
+<item>Chorus: Pondithini Nenu Prabhuvaa Nee Nundi\n
+Prathi Sreshta Eevulan Ee Bhuviyandu ||2||\n\n
+1. Nee Prema Chetha Dhanyudanaithini ||2||\n
+Kruthagnathaa Sthuthulu Chellinchedanu ||2||\n
+Kashta Pareekshalayandu Naa Prabhuvaa ||2||\n
+Jayajeevithamu Naaku Nerpinchithivi ||2||    \n\n
+2. Gaali Thuphaanulalonundi Vachchithini ||2||\n
+Andhakaara Shakthula Prabhaavamunundi ||2||\n
+Nee Rekkala Chaatuna Nanu Daachithivayyaa ||2||\n
+Neeve Aashraya Durgambaithivi ||2||     \n\n
+</item>
+<item>Chorus: Praarthana Vinedi Paavanudaa\n
+Praartana Maaku Nerpumayaa   \n\n
+1. Sreshtamaina Bhaavamu Goorchi\n
+Shishya Brundamuku Nerpithivi\n
+Paramuda Ninnu Pranuthinchedamu\n
+Paraloka Praarthana Nerpumayaa \n\n
+2. Parama Devudavani Thelisi\n
+Karamu Leththi Jantaga Modchi\n
+Shiramunuvanchi Sariganu vedina\n
+Sunkari Praarthana Nerpumayaa     \n\n
+3. Dinadinambu Chesina Seva\n
+Daiva Chiththamuku Saripova\n
+Deenudavayyi Ditamuga Kondanu\n
+Chesina Praarthana Nerpumayaa     \n\n
+4. Shathrumooka Ninu Chuttukoni\n
+Siluvapaina Ninu Jampaganu\n
+Shaanthamutho Nee Shathrula Brovaga\n
+Salipina Praarthana Nerpumayaa   \n\n
+</item>
+<item>Chorus: Prema Yesuni Prema\n
+Adi Evvaru Koluvalenidi\n
+Nijamu Deenini Nammu\n
+Idi Bhuvi Andinchalenidi\n
+Ennadennadu Maaranidi\n
+Naa Yesuni Divya Prema\n
+Ennadennadu Veedanidi\n
+Naa Yesuni Nithya Prema  \n\n
+1. Thallithandrula Prema\n
+Needa Vale Gathiyinchunu\n
+Kanna Biddala Prema\n
+Kalalaa Karigipovunu  \n\n
+2. Bhaaryaa Bharthala Madhya\n
+Vikasinchina Prema Pushpamu\n
+Vaadipoyi Raalunu Thvaralo\n
+Modulaa Migilipovunu   \n\n
+3. Bandhu Mithrulayandu\n
+Veluguchunna Prema Deepamu\n
+Noone Unnantha Kaalame\n
+Velugunichchi Aaripovunu    \n\n
+4. Dharalona Premalanniyu\n
+Sthiramu Kaavu Tharigipovunu\n
+Kreesthu Yesu Kalvari Premaa\n
+Kadavaraku Aadarinchunu  \n\n
+</item>
+<item>Chorus: Preminchedan Adhikamugaa\n
+Aaradhinthun Aasakthitho (2)\n
+Ninnu Poorna Manasutho Aaraadhinthun\n
+Poorna Balamutho Preminchedan\n
+Aaraadhana Aaraadhanaa\n
+Aa.. Aa..Aaraadhana Aaraadhanaa (2)\n\n
+
+1. Ebinejare Ebinejare\n
+Intha Varaku Aadukonnaave (2)      \n\n
+
+2. Elrohi Elrohi\n
+Nannu Choochaave Vandanamayyaa (2)    \n\n
+
+3. Yehovaa Raaphaa Yehovaa Raaphaa\n
+Swasthaparichaave Vandanamayyaa (2)     \n\n
+</item>
+<item>Chorus: Priya Yesu Nirminchithivi\n
+Priyamaara Naa Hrudayam\n
+Mudamaara Vasiyinchunaa\n\n
+Hrudayaantharangamuna\n
+Nee Raktha Prabhaavamuna\n
+Naa Rotha Hrudayambunu ||2||\n
+Pavithraparachumu Thandri\n
+Prathi Paapamunu Kadigi ||2||  \n\n
+1. Ajaagarookudanaithi\n
+Nijaashrayamunu Vidachi\n
+Karunaarasamutho Naakai\n
+Kanipettithivi Thandri ||2||    \n\n
+2. Vikasinche Vishwaasambu\n
+Vaakyambunu Chaduvagane ||2||\n
+Cherithi Needu Daari\n
+Kori Nadipinchumu ||2||      \n\n
+3. Prathi Chota Nee Saakshigaa\n
+Prabhuvaa Nenundunatlu ||2||\n
+Aathmaabhishekamunimmu\n
+Aathmeeya Roopundaa ||2|| \n\n
+</item>
+<item>Chorus: Priya Yesu Raajunu Ne Choochina Chaalu\n
+Mahimalo Nenaayanatho Unte Chaalu ||2||\n
+Nithyamaina Mokshagruhamu Nandu Cheri\n
+Bhakthula Gumpulo Harshinchina Chaalu ||2||  \n\n
+1. Yesuni Rakthamandu Kadugabadi\n
+Vaakyamche Nithyam Bhadraparachabadi ||2||\n
+Nishkalanka Parishudhdhulatho Pedan Nenu ||2||\n
+Bangaaru Veedulalo Thirigedanu ||2||    \n\n
+2. Mundla Makutambaina Thalanu Joochi\n
+Swarna Kireetam Betti Aanandinthun ||2||\n
+Koradaatho Kottabadina Veepun Joochi ||2||\n
+Prathi Yokka Gaayamunu Mudhdhaadedan ||2||     \n\n
+3. Hrudayamu Sthuthulatho Nimpabadenu\n
+Naa Bhaagya Gruhamunu Smarinchuchu ||2||\n
+Hallelooya Aamen Hallelooya ||2||\n
+Varnimpa Naa Naaluka Chaaladayyaa ||2||    \n\n
+4. Aaha Aa Boora Eppudu Dhvaninchuno\n
+Aaha Naa Aasha Eppudu Theeruthundo ||2||\n
+Thandri Naa Kanneetini Thuduchuneppudo ||2||\n
+Aashatho Vechiyunde Naa Hrudayam ||2||   \n\n
+</item>
+<item>Chorus: Raajulaku Raaju Puttenannayya ||2||\n
+Raare Chooda Manamelludaamannayya ||2||  \n\n
+1. Yudaayane Deshamandannnayya ||2||\n
+Yudulaku Goppa Raaju Puttenannayya ||2||  \n\n
+2. Thaaran Joochi Thoorpu Gnaanulannayya ||2||\n
+Tharalinaare Vaaru Bethlehemannayya ||2||  \n\n
+3. Bangaaramu Saambraani Bolamannayya\n
+Baagugaanu Sree Yesu Keeyarannayya ||2||  \n\n
+4. Aadudaamu Paadudaamannayya ||2||\n
+Vedukatho Manamelludaamannayya||2||         \n\n
+</item>
+<item>Chorus: Raakada samayamulo kada bhuura shabdhamuloo \n
+
+Yesuni cherukunee viswasamu nee kundha (2)\n
+Raavaya yesaiyaa vegame raavayyaa \n
+Raavaya yesaiyaa vegame raavayyaa \n\n
+1.yesai ya rakada samayamuloo yedhu rege rakshana nee kundhaa (2)\n
+lo kashala pai vijayam nee kundha (2)\n
+Raavaya yesaiyaa vegame ravayyaa \n
+Raavaya yesaiyaa vegame ravayyaa \n\n
+
+2. Immpyna dhupavedikagaa yekantha pradhana nee kundha (2)\n
+Yesu nashinnche deena manasundha (2)\n
+Raavaya yesaiyaa vegame ravayyaa \n
+Raavaya yesaiyaa vegame ravayyaa 
+\n\n
+3. Deenamanthaa devunesannidhiloo vakyam korakaiakali nee kundha (2)\n
+Yesu nadhu nitho sahavasam nee kundha (2)\n
+Raavaya yesaiyaa vegame ravayyaa \n
+Raavaya yesaiyaa vegame ravayyaa \n\n
+
+4. Sramalona sahanam nee kundha stuthiiche naluka nee kundha (2)\n
+Athamala korakyna bharam nee kundha (2)\n
+Raavaya yesaiyaa vegame ravayyaa \n
+Raavaya yesaiyaa vegame ravayyaa \n\n
+
+5. Nee paatha rotha jeevitham nee papa hrudhayam marindha (2)\n
+Nuthana hrudhayam tho aradhana nee kundha (2)\n
+Raavaya yesaiyaa vegame ravayyaa \n
+Raavaya yesaiyaa vegame ravayyaa \n\n
+
+6. Anitikanna miinagaa kaniti pradhana nee kundha (2)\n
+Ellavelalo stuthi yagam nee kundha (2)\n
+Raavaya yesaiyaa vegame ravayyaa \n
+Raavaya yesaiyaa vegame ravayyaa \n\n
+</item>
+<item>Chorus: Rammanuchunnaadu Ninnu Prabhu Yesu\n
+Vaanchatho Thana Karamu Chaapi\n
+Rammanuchunnaadu ||2||\n\n
+1. Etuvanti Shramalandunu\n
+Aadarana Neekichchunani ||2||\n
+Grahinchi Neevu Yesuni Choochina\n
+Hadhdhu Leni Impu Pondedavu ||2||     \n\n
+2. Kanneeranthaa Thuduchunu\n
+Kanupaapavale Kaapaadun ||2||\n
+Kaaru Meghamuvale Kashtamulu Vachchinanoo\n
+Kanikarinchi Ninnu Kaapaadunu ||2||    \n\n
+3. Sommasillu Velalo\n
+Balamunu Neekichchunu ||2||\n
+Aayana Nee Velugu Rakshananai Yundunu\n
+Aalasimpaka Thvarapadi Rammu ||2||   \n\n
+4. Sakala Vyaadhulanu\n
+Swasthatha Parachutaku ||2||\n
+Shakthimanthudagu Prabhu Yesu Prematho\n
+Andariki Thana Krupalanichchun ||2||    \n\n
+</item>
+<item>Chorus: Randi Utsaahinchi Paadudamu\n
+Rakshana Durgamu Mana Prabhuve ||2||\n\n
+Randi Kruthagnatha Sthothramutho\n
+Raaraaju Sannidhikegudamu ||2||\n
+Sathprabhu Naamamu Keerthanalan\n
+Santhosha Gaanamu Cheyudamu    \n\n
+1. Mana Prabhuve Maha Devundu\n
+Ghana Mahaathyamu Gala Raju ||2||\n
+Bhoomyaagaadhapu Loyalunu\n
+Bhoodhara Shikharamulaayanave   \n\n
+2. Samudramu Srushtinchenaayanade\n
+Sathyuni Hasthame Bhuvijesen ||2||\n
+Aayana Daivamu Paalithula\n
+Aayana Mepedi Gorrelamu     \n\n
+3. Aa Prabhu Sannidhi Mokarinchi\n
+Aayana Mundara Mrokkudamu ||2||\n
+Aayana Maatalu Gaikonina\n
+Ayyavi Manakentho Melagunu    \n\n
+4. Thandri Kumaara Shudhdhaathmakunu\n
+Thagu Sthuthi Mahimalu Kalgu Gaaka ||2||\n
+Aadini Ippudu Ellappudu\n
+Ainatlu Yugamulanounu Aamen   \n\n
+</item>
+<item>Chorus: Ruchi Choochi Erigithini – Yehovaa Uththamudaniyu (2)\n
+Rakshaku Naashrayinchi – Ne Dhanyudanaithini (2)\n\n
+
+1. Goppa Devudavu Neeve – Stuthulaku Paathruda Neeve (2)\n
+Thaappaka Aaraadhinthun – Dayaaludavu Neeve (2)   \n\n
+
+2. Mahonnathudavagu Devaa – Prabhaavamu Galavaadaa (2)\n
+Manasaara Pogadedanu Nee – Aascharya Kaaryamulan (2) \n\n
+
+3. Manchi Thanamugala Devaa – Athishreshtudavu Andarilo (2)\n
+Mudamaara Paadeda Ninnu – Athi Sundarudavaniyu (2) \n\n
+
+4. Kruthagnatha Chellinthun – Prathi Daani Koraku Nenu (2)\n
+Kreesthuni Yande Thrupthi – Pondi Karshinchedanu (2)  \n\n
+
+5. Praardhinthunu Edathegaka – Prabhu Sannidhilo Cheri (2)\n
+Sampoornamuga Pondedanu – Aduguvaatannitini (2)  \n\n
+6. Naa jeevitha mantha yunu yehova nu stuthiinchedhanu (2)\n
+Naa brathukukalamulo naa devuni keerthinthunn (2)\n\n
+7. Santhoshinthu nellapudu kashta dukkabaa dhalalo (2)\n
+Yentho nemmadhi nichunn naa rakshakudu yesu (2)\n\n
+</item>
+<item>Chorus: Saagilapadi Mrokkedamu\n
+Sathyamutho Aathmalo\n
+Mana Prabhu Yesuni Aa Aa Aaa ||2||       \n\n
+1. Moshekante Shreshtudu\n
+Anni Mosamulanundi Vidipinchun ||2||\n
+Veshadhaarulan Dveshinchun\n
+Aashatho Mrokkedamu ||2||             \n\n
+2. Aharonukante Shreshtudu\n
+Mana Aaraadhanaku Paathrundu ||2||\n
+Aayane Pradhaana Yaajakudu\n
+Andaramu Mrokkedamu ||2||          \n\n
+3. Aalayamukanna Shreshtudu\n
+Nija Aalayamuga Thaane Yunden ||2||\n
+Aalayamu Meere Anenu\n
+Ellakaalamu Mrokkedamu ||2||      \n\n
+4. Yonaakante Shreshtudu\n
+Praana Daanamugaa Thannu Arpinchen ||2||\n
+Maanavulanu Vimochinchen\n
+Ghanaparachi Mrokkedamu ||2||     \n\n
+</item>
+<item>Chorus: Saakshyamichcheda\n
+Mana Swaami Yesu Devu Danchu\n
+Saakshyamanaga Ganina Vinina\n
+Sangathulanu Delputaye\n
+Saakshya Michchu Koraku Nannu\n
+Swaami Rakshinche Nanchu    \n\n
+1. Dikku Desayu Leni Nannu\n
+Devudentho Kanikarinchi\n
+Makkuvatho Naaku Netlu\n
+Manashshaanthi Nichchinado   \n\n
+2. Palletoolla Janula Rakshana\n
+Bhaaramu Naa Paini Galadu\n
+Pillalakunu Beddalakunu\n
+Brematho Naa Swaanubhavamu  \n\n
+3. Bodha Cheyalenu Vaada\n
+Mulaku Bonu Naaka Dela\n
+Naadhu desu Prabhuni Goorchi\n
+Naaku Delasinantha Varaku    \n\n
+4. Paapulakunu Mithrudanchu\n
+Braana Mosagi Lechenanchu\n
+Baapamula Kshaminchu Nanchu\n
+Brabhuni Vishwasinchu Danchu   \n\n
+5. Choru laina Jaaru lanaa\n
+Chaaru laina Nevvaraina\n
+Ghorapaapu laina Kreesthu\n
+Koormitho rakshinchu Nanchu     \n\n
+6. Paramatha Dooshanamu Laela\n
+Parihasinchi Paluku Taela\n
+Irugu Porugu Vaari kella\n
+Yesu Kreesthu Devu Danchu      \n\n
+7. Ellakaala Moorakunda\n
+Nela Yaathma Shaanthi Leka\n
+Thalladillu Vaaralakunu\n
+Thandri Kumaa Raathma Pera    \n\n
+</item>
+<item>Chorus: Sadaakaalamu Neetho Nenu\n
+Jeevinchedanu Yessayya\n
+Yesayyaa Yesayyaa Yesayyaa Yesayyaa ||2|| \n\n
+1. Paapaala Oobhilo Padiyunna Nannu\n
+Nee Prematho Nannu Lepaavayyaa ||2||\n
+Ae Thoduleni Naaku Naa Thodugaa\n
+Naa Andagaa Neevu Nilichaavayyaa ||2||    \n\n
+2. Nee Vaathsalyamunu Naapai Choopinchi\n
+Nee Saakshigaa Nannu Nilipaavayyaa ||2||\n
+Aascharyakaaryamulu Enno Chesi\n
+Nee Paathragaa Nannu Malichaavayyaa ||2|| \n\n
+</item>
+<item>Chorus: Sarvakrupaanidhiyagu Prabhuvaa\n
+Sakala Charaachara Santhoshamaa\n
+Sthothramu Chesi Sthuthinchedamu\n
+Santhoshamuga Ninu Pogadedamu         \n\n
+Hallelooya Hallelooya Halleooya Hallelooyaa\n
+Hallelooya Yani Paadedanu Aanandamutho Saagedanu\n\n
+1. Preminchi Nannu Vedakithivi\n
+Preethitho Nanu Rakshinchithivi\n
+Parishudhdhamuga Jeevinchutakai\n
+Paapini Nanu Karuninchithivi     \n\n
+2. Alpakaala Shramalanubhavimpa\n
+Anudinamu Krupanichchithivi\n
+Naathuni Adugujaadalalo\n
+Naduchutaku Nanu Pilichithivi  \n\n
+3. Marana Shareeramu Marpunondi\n
+Mahima Shareeramu Pondutakai\n
+Mahimaathmatho Nannu Nimpithivi\n
+Marana Bhayamulanu Theerchithivi  \n\n
+</item>
+<item>Chorus: Seeyonu Paatalu Santhoshamugaa\n
+Paaduchu Seeyonu Velludamu ||2||\n\n
+1. Lokaana Shaashvathaanandamemiyu\n
+Ledani Cheppenu Priyudesu\n
+Pondavale Nee Lokamunandu\n
+Konthakaalamenno Shramalu    \n\n
+2. Aiguputhunu Vidachinatti Meeru\n
+Aranyavaasule Ee Dharalo\n
+Nithyanivaasamu Ledilalona\n
+Nethraalu Kaanaanupai Nilpudi   \n\n
+3. Maaraanupolina Chedaina Sthalamula\n
+Dvaaraa Povalasiyunnanemi\n
+Nee Rakshakundagu Yese Nadupunu\n
+Maarani Thanadu Maata Nammu    \n\n
+4. Aiguputhu Aashalananniyu Vidichi\n
+Ranguga Yesuni Vembadinchi\n
+Paadaina Korahu Paapambumaani\n
+Vidheyulai Viraajilludi  \n\n
+5. Aanandamaya Paralokambu Manadi\n
+Akkadanundi Vachchunesu\n
+Seeyonu Geethamu Sompuga Kalasi\n
+Paadedamu Prabhuyesuku Jai  \n\n
+</item>
+<item>Chorus: Shudhdhaa Hrudayam Kalugajeyumu ||3||\n\n
+Nee Vaathsalyam Nee Baahulyam\n
+Nee Krupaa Kanikaram Choopinchumu ||2||\n\n
+
+1. Paapamu Chesaanu Doshinai Unnaanu ||2||\n
+Thelisiyunnadi Naa Athikramame\n
+Thelisiyunnadi Naa Paapamule ||2||\n
+Nee Sannidhilo Parishudhdhaathmatho\n
+Nannu Nimpumayyaa ||2||\n\n
+
+Shudhdhaa Hrudayam Kalugajeyumu ||2||\n
+Naalonaa Naalonaa ||2||\n
+Shudhdhaa Hrudayam Kalugajeyumu ||3||\n\n
+
+2. Nee Gnaanamunu Nee Sathyamunu\n
+Naa Aantharyamulo Puttinchumu ||2||\n
+Utsaaha Santhosham Nee Rakshanaanandam\n
+Kalugajeyumu Naa Hrudayamulo ||4||\n\n
+Nee Sannidhilo Naa Paapamule Oppukondunayyaa ||2|| \n\n
+</item>
+<item>Chorus: Siluva Chentha Cherinanaadu\n
+Kalushamulanu Kadigiveyun\n
+Pouluvalenu Seelavalenu\n
+Sidhdhapadina Bhakthulajoochi\n\n
+1. Kondalaanti Bandalaanti\n
+Mondi Hrudayambu Mandinchu\n
+Pandiyunna Paapulanaina\n
+Pilachuchunde Paramu Chera  \n\n
+2. Vanda Gorrela Mandalonundi\n
+Okati Thappi Ontariyaaye\n
+Thombadi Thommidi Gorrela Vidichi\n
+Ontariyaina Gorrenu Vedaken  \n\n
+3. Thappipoyina Kumaarundu\n
+Thandrini Vidachi Tharalipoye\n
+Thappu Thelisi Thirigiraaga\n
+Thandriyathani Jerchukoniye  \n\n
+4. Paapiraava Paapamu Vidachi\n
+Parishudhdhula Vindula Jera\n
+Paapula Gathini Parikinchithivaa\n
+Paathaalambe Vaari Yanthamu  \n\n
+</item>
+<item>Chorus: Siluvalo Bali Aina Devuni Gorrepilla\n
+Viluvaina Nee Preman Vivarinthun Sree Yesu\n\n
+1. Aa Naati Yoodule Ninu Champiranukonti\n
+Kaadu Kaadayyayyo Naa Paapa Runamunake  \n\n
+2. Naa Athikrayamulakai Naluga Gottabadi\n
+Naa Doshamula Neevu Priyamuganu Mosithivi   \n\n
+3. Mruduvaina Nee Nuduru Mundla Potlachetha\n
+Suroopa-mu Leka Solipothiva Priyuda  \n\n
+</item>
+<item>Chorus: Siluvalo Saagindi Yaathra\n
+Karunaamayundi Dayagala Paathra ||2||\n
+Idi Evari Kosamo\n
+Ee Jagathi Kosame\n
+Ee Janula Kosame   \n\n
+1. Paalu Kaaru Dehamu Paina\n
+Paapaathmula Koradaalenno ||2||\n
+Naatyamaadinaayi Nadi Veedhilo Nilipaayi ||2||\n
+Noru Theruva Ledaaye Prema\n
+Badulu Paluka Ledaaye Prema ||2||  \n\n
+2. Venuka Nundi Thannindi Okaru\n
+Thana Mundu Nilachi Navvindi Mari Okaru ||2||\n
+Geli Chesinaaru Parihaasamaadinaaru ||2||\n
+Noru Theruva Ledaaye Prema\n
+Badulu Paluka Ledaaye Prema ||2||    \n\n
+</item>
+<item>Chorus: Silvalo Naakai Kaarchenu – Yesu Rakthamu ||2||\n
+Shilanaina Nannu Maarchenu – Yesu Rakthamu ||2||\n
+Yesu Rakthamu – Prabhu Yesu Rakthamu ||2||\n
+Amoolyamaina Rakthamu – Yesu Rakthamu ||2||\n\n
+1. Samakoorchu Nannu Thandritho – Yesu Rakthamu ||2||\n
+Sandhi Chesi Cherchunu – Yesu Rakthamu ||2||\n
+Yesu Rakthamu – Prabhu Yesu Rakthamu ||2||\n
+Aikyaparachunu Thandritho – Yesu Rakthamu ||2||\n\n
+2. Samaadhaana Parachunu – Yesu Rakthamu ||2||\n
+Samasyalanni Theerchunu – Yesu Rakthamu ||2||\n
+Yesu Rakthamu – Prabhu Yesu Rakthamu ||2||\n
+Sampoorna Shaanthinichchunu – Yesu Rakthamu ||2||\n\n
+3. Neethimanthuluga Cheyunu – Yesu Rakthamu ||2||\n
+Durneethi Nantha Baapunu – Yesu Rakthamu ||2||\n
+Yesu Rakthamu – Prabhu Yesu Rakthamu ||2||\n
+Nibandhana Nilupunu Rakthamu – Yesu Rakthamu ||2||\n\n
+4. Rogamulanu Baapunu – Yesu Rakthamu ||2||\n
+Duraathmala Paaradrolunu – Yesu Rakthamu ||2||\n
+Yesu Rakthamu – Prabhu Yesu Rakthamu ||2||\n
+Shakthi Balamu Nichchunu – Yesu Rakthamu ||2||\n\n
+</item>
+<item>Chorus: Solipovaladu Manassaa Solipovaladu\n
+Ninu Gani Pilachina Devudu Vidichipothaadaa ||2||   ||Solipovaladu||\n\n
+1. Ikkatulu Ibbandulu\n
+Ninnu Chuttumuttinaa ||2||\n
+Priyudu Ninnu Cheradeesina\n
+Aanandam Kaadaa ||2||  \n\n
+2. Shodhanalanu Jayinchinacho\n
+Bhaagyavanthudavu ||2||\n
+Jeeva Kireetam Moyuvela\n
+Entho Santhoshamu ||2||   \n\n
+3. Vaakku Ichchina Devuni Neevu\n
+Paadi Koniyaadu ||2||\n
+Theerchi Didde Aathma Ninnu\n
+Chere Praardhinchu ||2||  \n\n
+</item>
+<item>Chorus: Sri Yesundu Janminche Reyilo ||2||\n
+Nedu Paayaka Bethlehemu Oorilo ||2||             ||Sri Yesundu||\n\n
+1. Aa Kanniya Mariyamma Garbhamanduna ||2||\n
+Immaanuyelanedi Naamamandunaa ||2||  \n\n
+2. Sathramanduna Pashuvulashaala Yanduna ||2||\n
+Devaputhrundu Manujundaayenandunaa ||2|| \n\n
+3. Mana Koraku Oka Shishuvu Puttenu ||2||\n
+Dharanu Mana Doshamulabogettenu ||2||  \n\n
+4. Gollalellaru Migula Bheethillagaa ||2||\n
+Thelpe Goppa Vaartha Dootha Challaga ||2|| \n\n
+5. Akshayundagu Yesu Puttenu ||2||\n
+Manaku Rakshanambu Sidhdhaparachenu ||2|| \n\n
+</item>
+<item>Chorus: Sthothram Chellinthumu\n
+Sthuthi Sthothram Chellinthumu\n
+Yesu Naathuni Melulu Thalanchi   \n\n
+1. Deevaa Raathramulu\n
+Kantipaapavale Kaachi\n
+Dayagala Hasthamutho\n
+Brochi Nadipinchithivi        \n\n
+2. Gaadaandhakaaramulo\n
+Kanneeti Loyalalo\n
+Krushinchi Poneeyaka\n
+Krupalatho Balaparachithivi  \n\n
+3. Sajeeva Yaagamugaa\n
+Maa Shareeramu Samarpinchi\n
+Sampoorna Sidhdhinonda\n
+Shudhdhaathmanu Nosagithivi     \n\n
+4. Seeyonu Maargamulo\n
+Palu Shodhanalu Raagaa\n
+Saathaanni Jayinchutaku\n
+Vishwaasamu Nichchithivi     \n\n
+5. Siluvanu Mosukoni\n
+Suvaarthanu Chepatti\n
+Yesuni Vembadimpa\n
+Entha Bhaagyamu Nichchithivi  \n\n
+6. Paadeda Hallelujaah\n
+Maranaatha Hallelujaah\n
+Sada Paadeda Hallelujaah\n
+Prabhu Yesuke Hallelujaah   \n\n
+</item>
+<item>Chorus: Sthothramu Sthuthi Sthothramu\n
+Velaadi Vandanaalu\n
+Kalugunu Gaaka Neeke Mahima\n
+Ellappudu Sthuthi Sthothramu\n
+Yesayya, Yesayya Yesayya ||4||\n\n
+1. Shoonyamu Nundi Samasthamu Kalugajesenu\n
+Niraakaaramaina Naa Jeevithamunaku Roopamu Nichchenu\n
+Yese Naa Sarvamu\n
+Yese Naa Samasthamu      \n\n
+2. Paramu Nundi Bhoomiki Digivachchina Yesu\n
+Siluva Maranamunondi Maargamu Therichenu\n
+Yese Naa Rakshana\n
+Yese Naa Nireekshana      \n\n
+</item>
+<item>Chorus: Sthuthiyu Mahima Ghantha Neeke\n
+Yugayugamula Varaku\n
+Entho Nammadagina Deva ||2||  \n\n
+1. Maa Devudavai Maakichchithivi\n
+Entho Goppa Shubha Dinamu ||2||\n
+Memandaramu Utsaahinchi Santhoshinchedamu ||2||\n
+Koniyaadedamu Maruvabadani Melula Chesenani ||2||\n\n
+2. Neevokkadave Goppa Devudavu\n
+Ghanakaaryamulu Cheyuduvu ||2||\n
+Needu Krupaye Nirantharamu Nilachiyundunugaa ||2||\n
+Ninnu Memu Aanandamutho Aaradhinchedamu ||2|| \n\n
+3. Neeve Maaku Parama Prabhudavai\n
+Nee Chiththamu Neraverchithivi ||2||\n
+Jeevamunichchi Nadipinchithivi Nee Aathma Dvaaraa ||2||\n
+Nadipinchedavu Sama Bhoomigala Pradeshamulo Nannu ||2||  \n\n
+4. Bhariyinchithivi Shramalu Nindalu\n
+Orchithivanni Maa Koraku ||2||\n
+Maranamu Gelchi Odinchithivi Saathaanu Balamun ||2||\n
+Paramu Nundi Maakai Vachche Prabhu Yesu Jayamu ||2||  \n\n
+</item>
+<item>Chorus: Sugunaala Sampannudaa\n
+Sthuthi Gaanaala Vaarasudaa\n
+Jeevinthunu Nithyamu Nee Needalo\n
+Aaswaadinthunu Nee Maatala Makarandamu\n\n
+1. Yesayya Neetho Jeevinchagaane\n
+Naa Brathuku Brathukuga Maarenule\n
+Naatyamaadenu Naa Antharangamu\n
+Idi Rakshanaananda Bhaagyame         \n\n
+2. Yesayya Ninnu Vennantagaane\n
+Aagnala Maargamu Kanipinchene\n
+Neevu Nannu Nadipinchagalavu\n
+Nenu Nadavavalasina Throvalo            \n\n
+3. Yesayya Nee Krupa Thalanchagaane\n
+Naa Shramalu Shramalugaa Anipinchalede\n
+Neevu Naakichche Mahima Eduta\n
+Ivi Ennathaginavi Kaave                       \n\n
+</item>
+<item>Chorus: Thallilaa Laalinchunu Thandrilaa Preminchunu ||2||\n
+Mudimi Vachchuvaraku Eththukoni Muddhaadunu\n
+Chanka Pettukoni Kaapaadunu Yesayyaa          \n\n
+1. Thalli Aina Marachunemo Nenu Ninnu Maruvanu\n
+Choodumu Naa Arachethulalo\n
+Ninnu Chekkiyunnaanu ||2||\n
+Nee Paadamu Thotrillaneeyanu Nenu\n
+Ninnu Kaapaaduvaadu Kunukadu Nidurapodu\n
+Ani Cheppi Vaagdhaanam Chesina Yesayya          \n\n
+2. Parvathaalu Tholagavachchu Thaththarillu Mettalanni\n
+Veedipodu Naa Krupa Neeku\n
+Naa Nibandhanaa Tholagadu ||2||\n
+Digulu Padaku Bhayapadaku Ninnu Vimochincheda\n
+Needu Bhaaramantha Mosi Naadu Shaanthi Nosageda\n
+Ani Cheppi Vaagdhaanam Chesina Yesayya          \n\n
+</item>
+<item>Chorus: Tharatharaalalo Yugayugaalalo Jagajagaalalo\n
+Devudu Devudu Yese Devudu\n
+Hallelooyaa Hallelooyaa Hallelooyaa Hallelooyaa\n\n
+1. Bhoomini Puttinchakamunupu\n
+Lokamu Punaadi Lenapudu    \n\n
+2. Srushtiki Shilpakaarudu\n
+Jagathiki Aadisambhoothudu \n\n
+3. Thandri Kumaara Aathmayu\n
+Okadaiyunna Roopamu     \n\n
+</item>
+<item>Chorus: Thenekanna Theeyanainadi\n
+Naa Yesu Prema – Mallekanna Thellanainadi ||2||\n
+Nannu Preminchenu Nannu Rakshinchenu\n
+Kashtakaalamandu Naaku Thodaiyundenu ||2||         \n\n
+1. Aagakane Saagipodunu\n
+Naa Prabhuvu Choopinchu Baatalo ||2||\n
+Addankulanni Nannu Chuttinaa\n
+Naa Devuni Ne Viduvakundunu ||2||                  \n\n
+2. Naa Vaalle Nannu Vidichinaa\n
+Naa Bandhuvule Dhooramainaa ||2||\n
+Ae Thodu Leka Ontarinainanoo\n
+Naa Thodu Kreesthani Aanandinthunu ||2||       \n\n
+</item>
+<item>Chorus: Thoorpu Diku Chukka Butte\n
+Merammaa – O Mariyamma ||2||\n
+Chukkanu Joochi Memu Vachchinaamu\n
+Mokki Povutaku ||2||      \n\n
+1. Bethlehemu Puramu Loni\n
+Baaludamma – Goppa Baaludamma ||2||\n
+Mana Paapamula Baapa Puttenamma\n
+Mahimavanthudamma ||2||   \n\n
+2. Pashuvula Paakaloni\n
+Baaludamma – Paaparahithudamma ||2||\n
+Paapambu Baapanu Puttenamma\n
+Sathyavanthudamma ||2||      \n\n
+3. Bangaaram Saambraani Bolam\n
+Thechchinaamu – Baala Yesu Noddaku ||2||\n
+Bangaaru Paadamula Mrokkedamu\n
+Bahuga Paadedamu ||2||     \n\n
+</item>
+<item>Chorus: Vandanambonarthumo Prabho Prabho\n
+Vandanambonarthumo Prabho Prabho\n
+Vandanambu Thandri Thanaya Shudhdhaathmudaa\n
+Vandanambu Landuko Prabho          \n\n
+1. Inni Naallu Dharanu Mammu Brochiyu\n
+Ganna Thandri Minchi Epudu Gaachiyu\n
+Ennaleni Deevene Lidu Nanna Yesuvaa\n
+Yanni Retlu Sthothramulivigo      \n\n
+2. Praatha Vathsarampu Baapa Manthayu\n
+Breethini Manninchi Mammu Gaavumu\n
+Nootha Naabdamunanu Needu Neethi Nosagumaa\n
+Daatha Kreesthu Naatha Rakshakaa     \n\n
+3. Deva Maadu Kaalu Sethu Lellanu\n
+Sevakaali Thanuvu Dinamulanniyu\n
+Nee Vosangu Vendi Pasidi Gnaanamantha Nee\n
+Sevakai Yangeekarinchumaa       \n\n
+4. Kotha Koraku Daasa Janamu Nampumu\n
+Ee Thari Maa Lotupaatlu Deerchumu\n
+Paathakambu Lella Maapi Bheethi Baapumu\n
+Khyaathi Nondu Neethi Sooryudaa    \n\n
+5. Maa Sabhalanu Peddajesi Penchumu\n
+Nee Suvaartha Jeppa Shakthi Neeyumu\n
+Mosapuchchu Nandhakaara Mantha Droyumu\n
+Yesu Krupan Gummarinchumu          \n\n
+</item>
+<item>Chorus: Vetakaani Urilo Nundi\n
+Naa Praananni Rakshinchaavu\n
+Balamaina Rekkala Krinda\n
+Naaku Aashrayamichchaavu\n\n
+Lene Ledayyaa Vere Aadhaaram\n
+Naa Shrungamaa Naa Kedemaa ||2||\n
+Aaraadhana Aaraadhana\n
+Naa Thandri Neeke Aaraadhana\n
+Aaraadhana Aaraadhana\n
+Naa Yesu Neeke Aaraadhana ||2||\n\n
+Raathri Vela Bhayamukainanoo\n
+Pagati Vela Baanamainanoo ||2||\n
+Rogamu Nannemi Cheyadu\n
+Naa Gudaaraanni Sameepinchadu ||2||     ||Lene Ledayya||\n\n
+</item>
+<item>Chorus: Yehova Naa Mora Laalinchenu\n
+Dana Mahaa Dayanu Nanu Ganinchenu\n
+Aharnishala Deenaheenudagu Naa\n
+Du Haayanedu Dhvani\n
+Grahinchi Manipenu     ||Yehova||\n\n
+1. Pishaachi Gadimi badagottenu\n
+Dana Vashaana Nanu Niluva Bettenu\n
+Prashaantha madhura Su Vishesha Vaakphala\n
+Nishaanthamuna Je Rchi Seda Deerchenu  \n\n
+2. Madaavalamu Bolu Naa Madin\n
+Dana Pradeeptha Vaakyaam Kooshaa Hathin\n
+Yadhechchalanniti Gudinchi Paapapu\n
+Modal Thudal Nari ki Dariki Jerchenu   \n\n
+3. Aneethi Vasthra Medalinchenu\n
+Ye Sunaathu Rakthamuna Munchenu\n
+Vinoothna Yathname Da Nooni Yennadu\n
+Ganan Vinan Bre Ma Naaku Joopenu    \n\n
+4. Vilaapamulaku Jevi Nichchenu\n
+Shrama Kalaapamulaku Selavichchenu\n
+Shilaanagamu Pai Kilaagi Nanu Sukha\n
+Kalaavalul Mana Sulona Nilipenu   \n\n
+5. Aganya Paapiyani Throyaka\n
+Na Nnu Goorchi Thana Suthuni Daa Chaka\n
+Theginchi Mruthi Ko Ppaginchi Paapapu\n
+Negul Digul Soga Sugaa Nanadchenu  \n\n
+</item>
+<item>Chorus: Yehovaa Naa Balamaa\n
+Yadhaarthamainadi Nee Maargam\n
+Paripoornamainadi Nee Maargam ||2||    \n\n
+1. Naa Shathruvulu Nanu Chuttinanoo\n
+Narakapu Paashamularikattinanoo ||2||\n
+Varadavale Bhakthiheenulu Porlina ||2||\n
+Vadalaka Nanu Edabaayani Devaa ||2||  \n\n
+2. Maranaputurulalo Maruvaka Moralida\n
+Unnathadurgamai Rakshanasrungamai ||2||\n
+Thana Aalayamulo Naa Mora Vinenu ||2||\n
+Adarenu Dharani Bhayakampamuche ||2||   \n\n
+3. Naa Deepamunu Veliginchuvaadu\n
+Naa Cheekatini Veluguga Cheyunu ||2||\n
+Jalaraasulanundi Balamaina Chethitho ||2||\n
+Velupala Cherchina Balamaina Devudu ||2||   \n\n
+4. Pourushamugala Prabhu Kopimpagaa\n
+Parvathamula Punaadulu Vanakenu ||2||\n
+Thana Notanundi Vachchina Agni ||2||\n
+Dahinchivesenu Vairulanellan ||2||               \n\n
+5. Meghamulapai Aayana Vachchunu\n
+Meghamulanu Thana Maatuga Jeyunu ||2||\n
+Urumula Merupula Menduga Jesi ||2||\n
+Apajayamichchunu Apavaadikini ||2||        \n\n
+6. Dayagala Vaaripai Daya Choopinchunu\n
+Katinulayedala Vikatamu Joopunu ||2||\n
+Garvishtula Yokka Garvamunanuchunu ||2||\n
+Sarvamu Nerigina Sarvaadhikaari ||2||        \n\n
+7. Naa Kaallanu Ledi Kaalluga Jeyunu\n
+Eththaina Sthalamulo Shakthitho Nilipi ||2||\n
+Rakshana Kedemu Naakandinchi ||2||\n
+Akshayamuga Thana Pakshamu Jerchina ||2|| \n\n
+8. Yehovaa Jeevamugala Devaa\n
+Bahugaa Sthuthulaku Arhuda Neeve ||2||\n
+Anyajanulalo Dhanyatha Choopuchu ||2||\n
+Hallelooya Sthuthigaanamu Cheseda ||2||   \n\n
+</item>
+<item>Chorus: Yehovaa Naa Kaapari Naaku Lemi Ledu\n
+Pachchika Gala Chotla Machchikatho Nadupun           \n\n
+1. Maranapu Cheekatilo Thiruguchundinanu\n
+Prabhu Yesu Nannu Karunatho Aadarinchun              \n\n
+2. Pagavaari Eduta Prematho Oka Vindu\n
+Prabhu Sidhdhamu Cheyun Paravashamondedanu    \n\n
+3. Noonetho Naa Thalanu Abhishekamu Cheyun\n
+Naa Hrudayamu Nindi Porluchunnadi                          \n\n
+4. Chirakaalamu Nenu Prabhu Mandiramulo\n
+Vasiyincheda Niratham Santhasamondedanu                \n\n</item>
+<item>Chorus: Yehovaa Nee Naamamu Entho Balamainadi\n
+Aa.. Aa.. Aa.. Entho Balamainadi\n
+Yesayya Nee Naamamu Entho Ghanamainadi\n
+Aa.. Aa.. Aa.. Entho Ghanamainadi       \n\n
+1. Moshe Praardhinchagaa\n
+Mannaanu Kuripinchithivi ||2||\n
+Yehoshuva Praardhinchagaa\n
+Suryachandrula Naapithivi       \n\n
+2. Nee Prajala Pakshamugaa\n
+Yudhdhamulu Chesina Devaa ||2||\n
+Agnilo Padavesinaa\n
+Bhayamemiyu Lekundiri        \n\n
+3. Simhala Bonainanu\n
+Santoshamugaa Velliri ||2||\n
+Praardhinchina Ventane\n
+Rakshinche Nee Hasthamu       \n\n
+4. Cherasaalalo Vesinaa\n
+Sankellu Bigiyinchinaa ||2||\n
+Sanghamu Praardhinchagaa\n
+Sankellu Vidipoyenu               \n\n
+5. Paulu Seelanu Bandhinchi\n
+Cherasalalo Vesinaa ||2||\n
+Paatalatho Praardhinchagaa\n
+Cherasala Braddalaye          \n\n
+</item>
+<item>Chorus: Yehovaanu Sthuthiyinchu – Prabhuvunu Ghanaparachu\n
+Mahaa Devuni Sevinchu – Yesuni Poojinchu\n
+Aascharyakarudu Aalochanakartha\n
+Balavanthudaina Nithyudagu Thandri ||2||\n
+Samaadhaana Kartha Aina Raaraajunu\n
+Aathmathonu Sathyamuthonu – Balamuthonu Manasuthonu\n
+Karamulu Thatti Kekalu Vesi – Ganthulu Vesi Naatyamu Chesi\n\n
+Kaligunnadanthatithonu Yehovaanu Sthuthiyinchu        \n\n
+1. Aakaasha Mahimalu Aayananu Sthuthiyinchu\n
+Bhooloka Sampoornatha Aayananu Sthuthiyinchu\n
+Thana Chethi Kriyalanni Aayananu Sthuthiyinchu\n
+Pillanagrovitho Aayananu Sthuthiyinchu\n
+Nee Chethuleththi Parishudhdha Sannidhilo                   \n\n
+2. Swaramandalamutho Aayananu Sthuthiyinchu\n
+Sithaara Swaramulatho Aayananu Sthuthiyinchu\n
+Gambheera Dhwanitho Mrogedi Thaalamutho\n
+Thambura Naatyamutho Thanthi Vaadyamutho\n
+Jeevamunna Prathi Praani Aayananu Sthuthiyinchu        \n\n
+</item>
+<item>Chorus: Yese Naa Aashrayamu\n
+Yese Naa Aadhaaramu\n
+Naa Kota Neeve… Naa Durgamu Neeve\n
+Naa Kaapari Neeve ||2||\n
+Shrama Loyalu Enno Eduru Vachchinaa\n
+Kashtaala Oobhilo Kuurukunnanuu ||2||\n
+Nannu Levaneththunu Nannu Balaparachunu\n
+Naaku Shakthinichchi Nadipinchunu ||2||    \n\n
+1. Jeeva Naavalo Thuphaanu Chelareginaa\n
+Aathmeeya Jeevithamlo Alalu Egasinaa ||2||\n
+Naaku Thodaiyundunu Nannu Daricherchunu\n
+Chukkani Ayi Daari Choopunu ||2||    \n\n
+2. Dinamanthayu Cheekati Alumukunnanuu\n
+Brathuke Bhaaramaina Sandramainanuu ||2||\n
+Naaku Velugichchunu Nannu Veluginchunu\n
+Naa Naavalo Naatho Nundunu ||2||         \n\n
+</item>
+<item>Chorus: Yese Naa Parihaari\n
+Priya Yese Naa Parihaari\n
+Naa Jeevitha Kaalamella\n
+Priya Prabhuve Naa Parihaari (2)      \n\n
+1. Yenni Kashtaalu Kaliginanoo\n
+Nannu Krunginche Bhaadalenno (2)\n
+Yenni Nashtalu Vaatillinaa\n
+Priya Prabhuve Naa Parihaari (2)          \n\n
+2. Nannu Sathaanu Vembadinchinaa\n
+Nannu Shathruvu Edirinchinaa (2)\n
+Palu Nindalu Nanu Chuttinaa\n
+Priya Prabhuve Naa Parihaari (2)          \n\n
+3. Mani Maanyaalu Lekunnanoo\n
+Palu Vedanalu Vedhinchinaa (2)\n
+Narulellaru Nanu Vidachinaa\n
+Priya Prabhuve Naa Parihaari (2)          \n\n
+4. Bahu Vyaadhulu Nanu Sokinaa\n
+Naaku Shaanthi Karuvainaa (2)\n
+Nanu Shodhakudu Shodhinchinaa\n
+Priya Prabhuve Naa Parihaari (2)          \n\n
+</item>
+<item>Chorus: Yesu Jananamu Lokaanikentho Varamu\n
+Aananda Gaanaala Christmas Dinamu ||2||\n
+Aahaahahaa Hallelooyaa… Ohohohoo Hosannaa ||2||\n
+1. Bethlehemulo Pashulapaakalo\n
+Poththillalo Mariya Odilo ||2||\n
+Pavalinchinaadu Aanaadu\n
+Nee Hrudini Koraadu Nedu ||2||\n
+2. Gollalanthaa Poojinchiri\n
+Gnaanulanthaa Aaraadhinchiri ||2||\n
+Arpinchumu Nee Hrudayam\n
+Aaraadhinchumu Prabhu Yesun ||2||   \n\n
+</item>
+<item>Chorus: Yesu parishuddha naamamunaku \n
+Eppudu Adhika sthothrame \n\n
+
+1. Iha paramuna melaina naamamu -Shakthi kalginatti naamamiihi \n
+Parishuddhulu sthuthinchu naamamidhi (2)\n\n
+
+
+2 Saitanun paathaalamunu jayinchu - veerathwamu gala naamamidhi \n
+Jayamondhedhamu ee naamaamuna (2)\n\n
+
+
+3. Nasinchu paapula rakshincha loka - munakethenchina naamamidhi \n
+Paralokamuna cherchu naamamidhi (2)\n\n
+
+
+4. Utthama bhakthulu pogadhi sthuthinchu - unnatha devuni naamamidhi \n
+Lokamantha prakaasinche naamamidhi (2)\n\n
+ 
+
+5. Shodhana gaadhala kasta samayaana odharchi nadupu naamamidhi \n
+Aatankamu thisiveyu naamamidhi (2)\n\n
+</item>
+<item>Chorus: Yesu Sarvonnathudaa… Kreesthu Sarva Shakthimanthudaa…\n
+Yesu Sarvonnathudaa Sarva Shakthimanthudaa\n
+Maanavula Rakshinche Mahaa Devudaa ||2||\n
+Nashiyinchinadaanini Vedaki Rakshinchinaavaa ||2||\n
+Chithikina Brathukula Kanneeru Thudichinaavaa ||2||\n
+Vandanamayyaa Neeku Vandanamayyaa Yesayyaa\n
+Vandanamayyaa Neeku Vandanamayyaa ||2||\n\n
+1. Kaanaanu Puramuna Kalyaana Samayaana ||2||\n
+Neetini Draakshaa Rasamuga Maarchi\n
+Vindunu Pasandugaa Maarchinaavu ||2||         \n\n
+2. Naayeenu Graamaana Vidhavaraali Kumaaruni ||2||\n
+Paadenu Prematho Mutti\n
+Kannathalli Kanneeru Thudichinaavu ||2||       \n\n
+3. Geraasenu Deshaana Samaadhula Sthalamulona ||2||\n
+Sena Dayyamunu Vadilinchi\n
+Nashiyinche Aathmanu Rakshinchinaavu ||2||    \n\n
+</item>
+<item>Chorus: Yesutho Teevigaanu Podamaa\n
+Addugaa Vachchu Vairi Gelvanu\n
+Yudhdhanaadambutho Bodamu    \n\n
+1. Raaraaju Sainyamandu Cheranu\n
+Aa Raaju Divya Seva Cheyanu ||2||\n
+Yesu Raaju Mundugaa\n
+Dhvajamu Batti Naduvagaa ||2||\n
+Yesutho teevigaanu Vedalanu   \n\n
+2. Vishwaasa Kavachamunu Dharinchuchu\n
+Aa Raaju Naagna Madini Nilpuchu ||2||\n
+Anudinambu Shakthini\n
+Ponduchunnavaaramai ||2||\n
+Yesutho teevigaanu Vedalanu  \n\n
+3. Shodhanalu Manala Chutti Vachchinaa\n
+Saathaanu Ambulenni Thagilinaa ||2||\n
+Bhayamuledu Manakika\n
+Prabhuvu Chentha Nundumu ||2||\n
+Yesutho teevigaanu Vedalanu  \n\n
+4. O Yuvathi Yuvakulaaraa Cherudi\n
+Sree Yesuraaja Vaartha Chaatudi ||2||\n
+Lokamantha Yekamai\n
+Yesunaathu Golvanu ||2||\n
+Saadhanambevaru Neevu Nenegaa   \n\n
+</item>
+<item>Chorus: Yudhdhamu Yehovaade ||4||\n\n
+1. Raajulu Manakevvaru Leru\n
+Shoorulu Manakevvaru Leru ||2||\n
+Sainyamulaku Adhipathi Ainaa\n
+Yehovaa Mana Anda   \n\n
+2. Baadhalu Manalanu Krungadeeyavu\n
+Vyaadhulu Manalanu Padadroyavu ||2||\n
+Vishwaasamunaku Kartha Ainaa\n
+Yesayye Mana Anda   \n\n
+3. Eriko Godalu Mundunnaa\n
+Erra Samudramu Edurainaa ||2||\n
+Adbutha Devudu Manakunda\n
+Bhayamela Manakinkaa \n\n
+4. Apavaadi Aina Saathaanu\n
+Garjinchu Simhamvale Vachchinaa ||2||\n
+Yuda Gothrapu Simhamainaa\n
+Yesayya Mana Anda   \n\n
+</item>
+        
+           </string-array>
+
 </resources>

@@ -12,6 +12,9 @@ int anim scale 0x7f04000a
 int anim slide_in_left 0x7f04000b
 int anim slide_out_left 0x7f04000c
 int array Alphabets 0x7f0c0000
+int array Eng_Alphabets 0x7f0c0003
+int array Eng_SongList 0x7f0c0004
+int array Eng_lyrics 0x7f0c0005
 int array SongList 0x7f0c0001
 int array lyrics 0x7f0c0002
 int attr actionBarDivider 0x7f01001f
@@ -187,6 +190,7 @@ int dimen dialog_fixed_height_major 0x7f0a0013
 int dimen dialog_fixed_height_minor 0x7f0a0014
 int dimen dialog_fixed_width_major 0x7f0a0011
 int dimen dialog_fixed_width_minor 0x7f0a0012
+int dimen eng_font_size 0x7f0a0018
 int dimen font_size 0x7f0a0017
 int drawable abc_ab_bottom_solid_dark_holo 0x7f020000
 int drawable abc_ab_bottom_solid_light_holo 0x7f020001
@@ -411,10 +415,12 @@ int layout abc_simple_decor 0x7f030017
 int layout aboutus 0x7f030018
 int layout activity_listview 0x7f030019
 int layout activity_main 0x7f03001a
-int layout lyric_display 0x7f03001b
-int layout splashscreen 0x7f03001c
-int layout support_simple_spinner_dropdown_item 0x7f03001d
-int layout tab_layout 0x7f03001e
+int layout eng_activity_main 0x7f03001b
+int layout eng_lyric_display 0x7f03001c
+int layout lyric_display 0x7f03001d
+int layout splashscreen 0x7f03001e
+int layout support_simple_spinner_dropdown_item 0x7f03001f
+int layout tab_layout 0x7f030020
 int menu main 0x7f0d0000
 int string abc_action_bar_home_description 0x7f07001b
 int string abc_action_bar_up_description 0x7f07001c

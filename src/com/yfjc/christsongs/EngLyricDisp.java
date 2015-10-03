@@ -22,7 +22,7 @@ import android.widget.TextView;
 
 import android.support.v7.app.ActionBarActivity;
 
-public class LyricDisp extends ActionBarActivity {
+public class EngLyricDisp extends ActionBarActivity {
 
 	private EasyTracker easyTracker=null;
 	TextView tv;
@@ -47,17 +47,17 @@ public class LyricDisp extends ActionBarActivity {
 	        }
 	        
 	       
-	        setContentView(R.layout.lyric_display);
+	        setContentView(R.layout.eng_lyric_display);
 	        android.support.v7.app.ActionBar actionBar=getSupportActionBar();
 			actionBar.setHomeButtonEnabled(true);  
 		
 		 
-		int size=(int) getResources().getDimension(R.dimen.font_size);
+		int size=(int) getResources().getDimension(R.dimen.eng_font_size);
 		
-		
+		Log.d("Size is:",""+size);
 		overridePendingTransition(R.anim.push_right_in, R.anim.push_right_out);
 		//Adding Google Analytics...
-        easyTracker=EasyTracker.getInstance(LyricDisp.this);
+        easyTracker=EasyTracker.getInstance(EngLyricDisp.this);
         easyTracker.send(MapBuilder.createEvent("TrackEventTest", "page_loaded", "main_page", null).build());
         
         try {
@@ -65,7 +65,7 @@ public class LyricDisp extends ActionBarActivity {
 			int num = a[4];
 		} catch (ArrayIndexOutOfBoundsException e) {
 			easyTracker.send(MapBuilder.createException(
-							new StandardExceptionParser(LyricDisp.this, null)
+							new StandardExceptionParser(EngLyricDisp.this, null)
 									.getDescription(Thread.currentThread().getName(), e), false).build());
 		}
 		
@@ -85,10 +85,12 @@ public class LyricDisp extends ActionBarActivity {
 	        
 		tv=(TextView)findViewById(R.id.textView1);
 		Resources res=getResources();
-		s=res.getStringArray( R.array.lyrics);
+		s=res.getStringArray( R.array.Eng_lyrics);
 		tv.setText(s[result]);
-		Typeface mfont=Typeface.createFromAsset(getAssets(), "fonts/Mallanna.ttf");
-		tv.setTypeface(mfont,Typeface.BOLD);
+		
+		//Typeface mfont=Typeface.createFromAsset(getAssets(), "fonts/Mallanna.ttf");
+		tv.setTypeface(Typeface.MONOSPACE,Typeface.BOLD);
+		
 		
 	}
 

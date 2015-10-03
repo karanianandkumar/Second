@@ -25,6 +25,9 @@ public final class R {
     }
     public static final class array {
         public static final int Alphabets=0x7f0c0000;
+        public static final int Eng_Alphabets=0x7f0c0003;
+        public static final int Eng_SongList=0x7f0c0004;
+        public static final int Eng_lyrics=0x7f0c0005;
         public static final int SongList=0x7f0c0001;
         public static final int lyrics=0x7f0c0002;
     }
@@ -1159,6 +1162,7 @@ containing a value of this type.
          (the screen is in portrait). This may be either a fraction or a dimension.
          */
         public static final int dialog_fixed_width_minor=0x7f0a0012;
+        public static final int eng_font_size=0x7f0a0018;
         /** 
          Customize dimensions originally defined in res/values/dimens.xml (such as
          screen margins) for sw600dp devices (e.g. 7" tablets) here.
@@ -1418,10 +1422,12 @@ containing a value of this type.
         public static final int aboutus=0x7f030018;
         public static final int activity_listview=0x7f030019;
         public static final int activity_main=0x7f03001a;
-        public static final int lyric_display=0x7f03001b;
-        public static final int splashscreen=0x7f03001c;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001d;
-        public static final int tab_layout=0x7f03001e;
+        public static final int eng_activity_main=0x7f03001b;
+        public static final int eng_lyric_display=0x7f03001c;
+        public static final int lyric_display=0x7f03001d;
+        public static final int splashscreen=0x7f03001e;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001f;
+        public static final int tab_layout=0x7f030020;
     }
     public static final class menu {
         public static final int main=0x7f0d0000;

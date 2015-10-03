@@ -45,9 +45,9 @@ public class TabLayoutActivity extends TabActivity {
 		tabHost.addTab(spec);
 		
 		//Fav Songs..
-				intent=new Intent(this,FavSongs.class);
-				spec=tabHost.newTabSpec("favorite")
-						.setIndicator("Favor")
+				intent=new Intent(this,EngSongs.class);
+				spec=tabHost.newTabSpec("tel-eng")
+						.setIndicator("Tel-Eng")
 						.setContent(intent);
 				tabHost.addTab(spec);
 				

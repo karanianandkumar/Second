@@ -4,9 +4,11 @@ import java.util.Timer;
 import java.util.TimerTask;
 import android.app.Activity;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.res.Resources;
 import android.graphics.Typeface;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Window;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
@@ -30,6 +32,8 @@ public class Splash extends Activity {
         requestWindowFeature(Window.FEATURE_NO_TITLE);
 		// Get the view from splash_screen.xml
 		setContentView(R.layout.splashscreen);
+		
+		
 		
 		iv=(ImageView)findViewById(R.id.LogoImage);
 		Animation anim=AnimationUtils.loadAnimation(this, R.anim.animation);
