@@ -52,7 +52,7 @@ public class EngLyricDisp extends ActionBarActivity {
 			actionBar.setHomeButtonEnabled(true);  
 		
 		 
-		int size=(int) getResources().getDimension(R.dimen.eng_font_size);
+		int size=(int) getResources().getDimension(R.dimen.font_size);
 		
 		Log.d("Size is:",""+size);
 		overridePendingTransition(R.anim.push_right_in, R.anim.push_right_out);
@@ -88,8 +88,8 @@ public class EngLyricDisp extends ActionBarActivity {
 		s=res.getStringArray( R.array.Eng_lyrics);
 		tv.setText(s[result]);
 		
-		//Typeface mfont=Typeface.createFromAsset(getAssets(), "fonts/Mallanna.ttf");
-		tv.setTypeface(Typeface.MONOSPACE,Typeface.BOLD);
+		Typeface mfont=Typeface.createFromAsset(getAssets(), "fonts/English.ttf");
+		tv.setTypeface(mfont,Typeface.BOLD);
 		
 		
 	}

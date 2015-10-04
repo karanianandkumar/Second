@@ -190,7 +190,6 @@ int dimen dialog_fixed_height_major 0x7f0a0013
 int dimen dialog_fixed_height_minor 0x7f0a0014
 int dimen dialog_fixed_width_major 0x7f0a0011
 int dimen dialog_fixed_width_minor 0x7f0a0012
-int dimen eng_font_size 0x7f0a0018
 int dimen font_size 0x7f0a0017
 int drawable abc_ab_bottom_solid_dark_holo 0x7f020000
 int drawable abc_ab_bottom_solid_light_holo 0x7f020001
