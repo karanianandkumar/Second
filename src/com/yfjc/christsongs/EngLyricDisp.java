@@ -54,7 +54,7 @@ public class EngLyricDisp extends ActionBarActivity {
 		 
 		int size=(int) getResources().getDimension(R.dimen.font_size);
 		
-		Log.d("Size is:",""+size);
+		//Log.d("Size is:",""+size);
 		overridePendingTransition(R.anim.push_right_in, R.anim.push_right_out);
 		//Adding Google Analytics...
         easyTracker=EasyTracker.getInstance(EngLyricDisp.this);

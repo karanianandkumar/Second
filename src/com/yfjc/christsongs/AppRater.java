@@ -8,6 +8,7 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.net.ConnectivityManager;
 import android.net.Uri;
 import android.widget.Toast;
  
@@ -65,9 +66,16 @@ public class AppRater {
                  
                 @Override
                 public void onClick(DialogInterface dialog, int which) {
+                	if (isNetworkAvailable(context)) {
                     editor.putBoolean("dontshowagain", true);
                     editor.commit();
-                     
+                	
+                	}else
+                	{
+                		editor.putBoolean("dontshowagain", false);
+                        editor.commit();
+                	}
+                	
                     
                     
 //                  If your app hasn't been uploaded to market you'll get an exception.
@@ -110,5 +118,9 @@ public class AppRater {
         dialog.show();
     }
      
+    public static boolean isNetworkAvailable(final Context context) {
+        final ConnectivityManager connectivityManager = ((ConnectivityManager) context.getSystemService(Context.CONNECTIVITY_SERVICE));
+        return connectivityManager.getActiveNetworkInfo() != null && connectivityManager.getActiveNetworkInfo().isConnected();
+    }
 }
 
