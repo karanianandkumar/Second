@@ -1,15 +1,130 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+        
+    <LinearLayout 
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical" >
+    android:orientation="vertical"
+    android:background="#fbe7e5"
+     >
     
     <TextView 
+        android:paddingTop="10dp"
         android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:textStyle="bold"
     android:id="@+id/aboutTV"
-    android:text="About Us"
-    android:layout_gravity="center_vertical"
+    android:text="Praise be to our Almighty God!!!"
+    android:textSize="@dimen/font_size"
         />
-
+    <TextView 
+        android:paddingTop="15dp"
+        android:paddingLeft="10dp"
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+   android:text="      As the second coming of our Lord Jesus Christ is very soon, we need to work hard to spread the gospel to the ends of the world as fast as we can. But as the world is getting smart day by day, we should not only work hard; but also in a SMART sense to reach them. Keeping this in view, we the soldiers of kingdom of God started the e-Service in which the following are done:"
+    android:textSize="15dp"
+        />
+    
+    <TextView 
+        android:paddingTop="15dp"
+        
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textStyle="bold" 
+   android:text="1. Mobile Ministry (Daily free message service):"
+  
+    android:textSize="15dp"
+        />
+    <TextView 
+        android:paddingTop="15dp"
+        android:paddingLeft="20dp"
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+   android:text="      It awakens the participants daily with a word of God followed by a prayer request. Therefore, thousands of people would be praying for a single request and as a result, there are many instances where people tasted the goodness of God and glorified Him."
+    android:textSize="15dp"
+        />
+    <TextView 
+        android:paddingTop="15dp"
+        android:paddingLeft="20dp"
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+   android:text="We wish you to be a part of this YFJC Mobile Ministry."
+    android:textSize="15dp"
+        />
+    <TextView 
+        android:paddingTop="15dp"
+        android:paddingLeft="20dp"
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+   android:text="To Join send Your Name, Place, Education/Job details to 99 66 00 2501 in the below format."
+    android:textSize="15dp"
+        />
+    <TextView 
+        android:paddingTop="15dp"
+        android:paddingLeft="20dp"
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+   android:text="YFJC  NAME  PLACE EDUCATION/JOB DETAILS"
+    android:textSize="15dp"
+        />
+    <TextView 
+        android:paddingTop="15dp"
+        android:paddingLeft="20dp"
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+   android:text="Eg1. YFJC Daniel, Hyderabad, B.Tech Final year JNTU-HYD\n\nEg2. YFJC Ratna Kumari, Rajahmundry, Teacher"
+    android:textSize="15dp"
+        />
+    <TextView 
+        android:paddingTop="15dp"
+        
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+    android:textStyle="bold"
+   android:text="2. Smart Phone applications:"
+  
+    android:textSize="15dp"
+        />
+    <TextView 
+        android:paddingTop="15dp"
+        android:paddingLeft="20dp"
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+   android:text="      To reach the young people, we think this is the best way. We, by the grace of God, wish to deliver the songs, messages and the word of God through applications in as many languages as possible. Our team is working day and night to build this applications in various platforms (Android, IOS, Windows). So far we are able to release TELUGU CHRISTIAN LYRICS android App. It is reaching innumerous number of hearts and allowing them to praise, worship and prosper in God. We’re releasing ENGLISH CHRISTIAN LYRICS app soon."
+    android:textSize="15dp"
+        />
+    <TextView 
+        android:paddingTop="15dp"
+        android:paddingLeft="20dp"
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+   android:text="      We are ready to do more and more for the glory of God. But we need your prayer support which is unseen to world but seen by God. Hoping So…"
+    android:textSize="15dp"
+        />
+    <TextView 
+        android:paddingTop="15dp"
+        android:paddingRight="10dp"
+        android:gravity="right"
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+   android:text="Yours"
+    android:textSize="15dp"
+        />
+    <TextView 
+        android:paddingTop="7dp"
+        android:paddingRight="10dp"
+        android:gravity="right"
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+    android:textStyle="bold"
+   android:text="Youth For Jesus Christ (YFJC) Team"
+    android:textSize="15dp"
+        />
+	
 </LinearLayout>
+</ScrollView>

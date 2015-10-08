@@ -4,10 +4,12 @@ package com.yfjc.christsongs;
 
 import android.app.Activity;
 import android.app.TabActivity;
+import android.content.ActivityNotFoundException;
 import android.content.Intent;
 import android.content.res.Resources;
 import android.graphics.Color;
 import android.graphics.Typeface;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -56,6 +58,9 @@ public class TabLayoutActivity extends TabActivity implements OnTabChangeListene
 				tabHost.setCurrentTab(0);
 				TextView tv = (TextView) tabHost.getTabWidget().getChildAt(0).findViewById(android.R.id.title); //Unselected Tabs
 	            tv.setTextColor(Color.parseColor("#ffffff"));
+	            
+	            TextView tv1 = (TextView) tabHost.getTabWidget().getChildAt(1).findViewById(android.R.id.title); //Unselected Tabs
+	            tv1.setTextColor(Color.parseColor("#000000"));
 	            
 	            tabHost.getTabWidget().getChildAt(0)
 				.setBackgroundColor(Color.rgb(00, 219, 239));
@@ -115,14 +120,27 @@ public class TabLayoutActivity extends TabActivity implements OnTabChangeListene
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
 		// TODO Auto-generated method stub
-    	if(item.getItemId()==R.id.action_aboutus){
-    		Intent i=new Intent(this,About.class);
+		switch(item.getItemId()){
+		
+		case R.id.action_aboutus:
+			Intent i=new Intent(this,About.class);
     		startActivity(i);
     		return true;
-    	}
+		case R.id.action_rateus:
+			try {
+                startActivity(new Intent(Intent.ACTION_VIEW,
+                        Uri.parse("market://details?id=" + "com.yfjc.christsongs")));
+            }catch(ActivityNotFoundException e) {
+            	startActivity(new Intent(Intent.ACTION_VIEW,
+                        Uri.parse("http://play.google.com/store/apps/details?id=" + "com.yfjc.christsongs")));
+            }
+			return true;
+			
+		default:
+    	
 		return super.onOptionsItemSelected(item);
 	}
 
-	
+	}
 	
 }

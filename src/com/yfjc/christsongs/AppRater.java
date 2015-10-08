@@ -98,8 +98,8 @@ public class AppRater {
                     
                     dialog.dismiss();
                 }
-            });
-            /*.setNegativeButton("No, Thanks", new DialogInterface.OnClickListener() {
+            })
+            .setNegativeButton("No, Thanks", new DialogInterface.OnClickListener() {
                  
                 @Override
                 public void onClick(DialogInterface dialog, int which) {
@@ -108,11 +108,11 @@ public class AppRater {
                         editor.commit();
                     }
                      
-                    Toast.makeText(context, "You have pressed No, Thanks button", Toast.LENGTH_SHORT).show();
+                    //Toast.makeText(context, "You have pressed No, Thanks button", Toast.LENGTH_SHORT).show();
                      
                     dialog.dismiss();
                 }
-            });*/
+            });
          
         dialog = builder.create();
         dialog.show();

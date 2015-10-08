@@ -4,7 +4,7 @@
     <string name="app_name">క్రైస్తవ గీతాలు </string>
     <string name="action_settings">Settings</string>
     <string name="action_aboutus">About Us</string>
-   
+       
     <string-array name="Alphabets">
         <item>అ</item>
         <item>ఆ</item>
@@ -8333,7 +8333,7 @@ Phaliyinche Praarthana        \n\n
 Athyantha Premaa Swaroopivi Neeve\n
 Aaraadhinthunu Ninne\n
 Aahaahaa.. Hallelujah – Aahaahaa.. Hallelujah ||3||\n\n
-Aahaahaa.. Hallelujah – Aahaahaa.. Aamen\n
+Aahaahaa.. Hallelujah – Aahaahaa.. Aamen\n\n
 1. Aascharyakarudaa Sthothram\n
 Aalochanakarthaa Sthothram\n
 Balamaina Devaa Nithyudavagu Thandri\n
@@ -8349,10 +8349,10 @@ Maa Pradhaana Yaajakudaa Sthothram    \n\n
 4. Mruthyunjayudaa Sthothram\n
 Mahaaghanudaa Sthothram\n
 Mammunu Konipova Thvaralo Raanunna\n
-5. Megha Vaahanudaa Sthothram                \n\n
-Aamen Anuvaadaa Sthothram\n
+Megha Vaahanudaa Sthothram\n\n
+6. Aamen Anuvaadaa Sthothram\n
 Alphaa Omegaa Sthothram\n
-6. Agni Jvaalalavanti Kannulu Galavaadaa\n
+Agni Jvaalalavanti Kannulu Galavaadaa\n
 Athyunnathudaa Sthothram    \n\n
 </item>
 <item>Chorus: Bangaram Adugaledu Vajraalani Adugaledu\n
@@ -8498,12 +8498,12 @@ Thanthi Vaadyamuthonu Aa Aa ||2|| \n\n
 7. Pillanagrovula Challaganoodi ||2||\n
 Ellaprajalu Jeri Aa Aa ||2|| \n\n
 8. Mroguthaalamulatho Aayanan Sthuthinchudi ||2||\n
-Gambheera Thaalamutho Aa Aa ||2|| n\n
+Gambheera Thaalamutho Aa Aa ||2|| \n\n
 9. Sakala Praanulu Yehovan Sthuthinchudi\n
 Hallelooyaa Aamen Aa Aa ||2|| \n\n
 </item>
 <item>Chorus: Devuniki Sthothramu Gaanamu Cheyutaye Manchidi\n
-Manamandaramu Sthuthigaanamu Cheyutaye Manchidi\n
+Manamandaramu Sthuthigaanamu Cheyutaye Manchidi\n\n
 1. Yerushalemu Yehovaye Kattuchunnavaadani\n
 Ishrayeleeyulanu Pogucheyuvaadani   \n\n
 2. Gunde Chedarina Vaarini Baagucheyuvaadani\n
@@ -8648,7 +8648,7 @@ Brathikinchenu Nannu ||2||    \n\n
 </item>
 <item>Chorus: Entha Manchi Devudavayyaa Yesayyaa\n
 Chinthalanni Theerenayyaa Ninnu Cherina\n
-Naa Chinthalanni Theerenayyaa Ninnu Cherina ||2||\n
+Naa Chinthalanni Theerenayyaa Ninnu Cherina ||2||\n\n
 
 1. Santhosham Ekkada Undanee\n
 Samadhaanam Echchata Naaku Dorikenanee ||2||\n
@@ -8715,7 +8715,7 @@ Prabhuvaa Ninnu Ne Koniyaadedan          \n\n
 </item>
 <item>Chorus: Hallelujah Sthuthi Mahima\n
 Ellappudu Devuni Kichchedamu (2)\n
-Aa Aa Aa Hallelujah Hallelujah Hallelujah (2)\n
+Aa Aa Aa Hallelujah Hallelujah Hallelujah (2)\n\n
 
 1.Ala Sainyamulaku Adhipathi Aina\n
 Aa Devuni Sthuthinchedamu (2)\n
@@ -9037,7 +9037,7 @@ Nee Paadambul Pattithin\n
 Aaa Aaa Aaa Nee Paadambul Pattithin  \n\n
 </item>
 <item>Chorus: Kuthoohalam Aarbhaatame Naa Yesuni Sannidhilo\n
-Aanandamaanandame Naa Yesuni Sannidhilo ||2||\n\n         
+Aanandamaanandame Naa Yesuni Sannidhilo ||2||\n\n
 1. Paapamantha Poyenu Rogamantha Poyenu\n
 Yesuni Rakthamulo\n
 Kreesthunandu Jeevitham Krupa Dvaaraa Rakshana\n
@@ -9204,7 +9204,7 @@ Kanneeru Thudichithivi Naa Snehamaa\n
 Kanneeru Thudichithivi Naa Snehamaa\n
 Kanneeru Thudichithivi…               \n\n
 2. Neeve Naa Praanamani Kadavaraku Viduvanani\n
-Baasalanni Marachi Anaathagaa Nanu Chesaaru \n\n
+Baasalanni Marachi Anaathagaa Nanu Chesaaru \n
 Nenunnaanantoo Naa Chenthana Cheraavu\n
 Evaru Vidachinaa Nanu Vidavanannaavu\n
 Jantagaa Nilichithivi Naa Praanamaa\n
@@ -9299,7 +9299,7 @@ Aadhyathmika Lemigani – Allade Naa Valalu                   \n\n
 4. Prabhu Maargamu Vidachithini – Prardhinchuta Maanithini\n
 Parbhu Vaakyamu Vadhalithini – Paramardhamu Marachithini\n
 Prapancha Natanalalo – Praveenyamunu Pondhi\n
-5. Phala Heenudanai Ipudu – Paatinthu Nee Maata            \n\n
+5. Phala Heenudanai Ipudu – Paatinthu Nee Maata\n
 Lothaina Jalamulalo – Lothuna Vinabadu Swaramaa\n
 Lobadutanu Nerpinchi – Lopambulu Savarinchi\n
 Lonunna Eevulalo – Lothaina Naa Brathuku\n
@@ -9416,7 +9416,7 @@ Jeevithaanthamu Seva Chesedan ||2||\n
 Seva Chesedan          \n\n
 </item>
 <item>Chorus: Nee Dhanamu Nee Ghanamu Prabhu Yesude\n
-Nee Dashama Bhaagamu Neeya Venudeethuvaa\n
+Nee Dashama Bhaagamu Neeya Venudeethuvaa\n\n
 1. Dharalona Dhana Dhaanyamula Neeyagaa\n
 Karuninchi Kaapaadi Rakshimpagaa ||2||\n
 Paraloka Naathundu Neekeeyagaa\n
@@ -9439,7 +9439,7 @@ Chaalunayyaa Naa Jeevithaana\n
 Mari Denini Aashinchanu\n
 Ne Koranu Ee Jagaana\n
 Chaalayya Chaalu Ee Deevenalu Chaalu\n
-Melayya Melu Nee Sannidhi Melu ||2||\n
+Melayya Melu Nee Sannidhi Melu ||2||\n\n
 1. Gurileni Nannu Gurthinchinaave\n
 Enaleni Premanu Choopinchinaave\n
 Velaleni Naaku Viluvichchinaave\n
@@ -9486,7 +9486,7 @@ Nee Darshanamune Ne Korukunti ||2||\n
 Nee Sundara Roopamu Choopinchu Devaa\n
 Nee Mellani Swaramunu Vinipinchu Prabhuvaa\n
 Hallelooya Hallelooya Hallelooya Hallelooya\n
-Aamen Hallelooya Aamen Hallelooya ||2||\n
+Aamen Hallelooya Aamen Hallelooya ||2||\n\n
 
 1. Padivelamandilo Athi Sundarudaa\n
 Paralokanaathaa Athikaankshaneeyudaa ||2||\n
@@ -9532,7 +9532,7 @@ nedhu mahima korake. \n\n
 <item>Chorus: Neevennaallu Rendu Thalampulatho\n
 Kunti Kunti Nadichedaveevu\n
 Yehovaaye Nee Devudaa\n
-Leka Vere Devathalunnaaraa ||2||\n
+Leka Vere Devathalunnaaraa ||2||\n\n
 1. Manam Theermaaninchedamippude\n
 Mana Nota Vanchana Lekundaa ||2||\n
 Marugaina Paapamulannitin\n
@@ -9736,7 +9736,7 @@ Nee Sannidhi Naaku Thodunichchinaavu ||2||       \n\n
 <item>Chorus: Oranna Oranna\n
 Yesuku Saati Vere Leranna Leranna\n
 Yese Aa Daivam Choodannaa Choodannaa\n
-Yese Aa Daivam Choodannaa\n
+Yese Aa Daivam Choodannaa\n\n
 1. Charithraloniki Vachchaadannaa – Vachchaadannaa\n
 Pavithra Jeevam Thechaadannaa – Thechaadannaa ||2||\n
 Advitheeyudu Aadi Devudu\n
@@ -10595,12 +10595,12 @@ Nanu Shodhakudu Shodhinchinaa\n
 Priya Prabhuve Naa Parihaari (2)          \n\n
 </item>
 <item>Chorus: Yesu Jananamu Lokaanikentho Varamu\n
-Aananda Gaanaala Christmas Dinamu ||2||\n
+Aananda Gaanaala Christmas Dinamu ||2||\n\n
 Aahaahahaa Hallelooyaa… Ohohohoo Hosannaa ||2||\n
 1. Bethlehemulo Pashulapaakalo\n
 Poththillalo Mariya Odilo ||2||\n
 Pavalinchinaadu Aanaadu\n
-Nee Hrudini Koraadu Nedu ||2||\n
+Nee Hrudini Koraadu Nedu ||2||\n\n
 2. Gollalanthaa Poojinchiri\n
 Gnaanulanthaa Aaraadhinchiri ||2||\n
 Arpinchumu Nee Hrudayam\n
