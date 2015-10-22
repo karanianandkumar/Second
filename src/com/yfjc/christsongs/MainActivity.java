@@ -1,13 +1,17 @@
 package com.yfjc.christsongs;
 
 import java.util.Arrays;
+import java.util.Calendar;
+import java.util.GregorianCalendar;
 import java.util.List;
 import java.util.Locale;
 
 
 import android.app.ActionBar;
 import android.app.Activity;
+import android.app.AlarmManager;
 import android.app.ListActivity;
+import android.app.PendingIntent;
 import android.content.Context;
 import android.content.Intent;
 import android.content.res.Configuration;
@@ -48,6 +52,8 @@ import com.google.android.gms.ads.InterstitialAd;
 public class MainActivity extends Activity implements OnItemClickListener {
 	
 	private EasyTracker easyTracker=null;
+	Calendar calendar;
+	private PendingIntent alarmIntent;
 	
 	TextView tv1;
 	ListView lv,lv2;
@@ -87,6 +93,45 @@ public class MainActivity extends Activity implements OnItemClickListener {
         
        
         AppRater.app_launched(this);
+        
+        /*
+        Intent myIntent = new Intent(MainActivity.this, AlaramReceiver.class);
+
+        PendingIntent pendingIntent = PendingIntent.getBroadcast(
+        		MainActivity.this, 0, myIntent, 0);
+
+        AlarmManager alarmManager = (AlarmManager) getSystemService(ALARM_SERVICE);
+
+    Calendar firingCal= Calendar.getInstance();
+    Calendar currentCal = Calendar.getInstance();
+
+    firingCal.set(Calendar.HOUR, 8); // At the hour you wanna fire
+    firingCal.set(Calendar.MINUTE, 2); // Particular minute
+    firingCal.set(Calendar.SECOND, 0); // particular second
+
+    long intendedTime = firingCal.getTimeInMillis();
+    long currentTime = currentCal.getTimeInMillis();
+
+    if(intendedTime >= currentTime) // you can add buffer time too here to ignore some small differences in milliseconds
+    {
+       //set from today
+       alarmManager.setRepeating(AlarmManager.RTC_WAKEUP,
+                intendedTime , AlarmManager.INTERVAL_DAY,
+                pendingIntent);
+
+    }
+    else{
+       //set from next day
+       // you might consider using calendar.add() for adding one day to the current day
+       firingCal.add(Calendar.DAY_OF_MONTH, 1);
+       intendedTime = firingCal.getTimeInMillis();
+
+       alarmManager.setRepeating(AlarmManager.RTC,
+                intendedTime , AlarmManager.INTERVAL_DAY,
+                pendingIntent);
+
+    }
+    */
         
         //Adding Google Analytics...
         easyTracker=EasyTracker.getInstance(MainActivity.this);

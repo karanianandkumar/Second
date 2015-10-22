@@ -1,8 +1,12 @@
 package com.yfjc.christsongs;
 
 
+import java.util.Calendar;
+
+import android.app.AlarmManager;
 import android.app.AlertDialog;
 import android.app.Dialog;
+import android.app.PendingIntent;
 import android.content.ActivityNotFoundException;
 import android.content.Context;
 import android.content.DialogInterface;
@@ -13,6 +17,8 @@ import android.net.Uri;
 import android.widget.Toast;
  
 public class AppRater {
+	Calendar calendar;
+	private PendingIntent alarmIntent;
  
     private final static String APP_TITLE = "Telugu Christian Lyrics";
     private final static String APP_PACKAGE_NAME = "com.yfjc.christsongs";
@@ -33,11 +39,29 @@ public class AppRater {
         editor.putLong("launch_count", launch_count);
          
         Long date_firstLaunch = prefs.getLong("date_first_launch", 0);
+        
+        long firstLaunch = prefs.getLong("first_launch", 0);
+        
         if(date_firstLaunch == 0) {
             date_firstLaunch = System.currentTimeMillis();
             editor.putLong("date_first_launch", date_firstLaunch);
         }
-         
+        
+        /*if(firstLaunch==0){
+        	editor.putLong("first_launch", 1);
+        	calendar = Calendar.getInstance();
+            Long time = new GregorianCalendar().getTimeInMillis()+60*06*24*1000;
+
+            Intent intentAlarm = new Intent(this, AlarmReceiver.class);
+
+            AlarmManager alarmManager = (AlarmManager) getSystemService(Context.ALARM_SERVICE);
+            alarmIntent=PendingIntent.getBroadcast(this, 1, intentAlarm, 0);
+
+            alarmManager.set(AlarmManager.RTC_WAKEUP,time, alarmIntent);
+
+            alarmManager.setRepeating(AlarmManager.RTC_WAKEUP, calendar.getTimeInMillis(),1000 * 60*60*24, alarmIntent);
+        }
+         */
         if(launch_count >= LAUNCH_UNTIL_PROMPT) {
              
             if(System.currentTimeMillis() >= date_firstLaunch + (DAYS_UNTIL_PROMPT * 24 * 60 * 60 * 1000)){
