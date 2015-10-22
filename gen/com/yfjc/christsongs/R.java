@@ -1317,6 +1317,7 @@ containing a value of this type.
         public static final int adView=0x7f060045;
         public static final int always=0x7f06000f;
         public static final int beginning=0x7f060014;
+        public static final int checkable_menu=0x7f06004a;
         public static final int checkbox=0x7f060030;
         public static final int collapseActionView=0x7f060011;
         public static final int default_activity_button=0x7f06002b;
@@ -1503,6 +1504,7 @@ containing a value of this type.
         [CHAR LIMIT=70] 
          */
         public static final int auth_client_using_bad_version_title=0x7f070014;
+        public static final int checkable=0x7f07002c;
         /**  Button in confirmation dialog to enable Google Play services.  Clicking it
         will direct user to application settings of Google Play services where they
         can enable it [CHAR LIMIT=40] 

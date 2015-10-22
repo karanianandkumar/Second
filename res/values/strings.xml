@@ -4,6 +4,7 @@
     <string name="app_name">క్రైస్తవ గీతాలు </string>
     <string name="action_settings">Settings</string>
     <string name="action_aboutus">About Us</string>
+    <string name="checkable">Daily Verse</string>
        
     <string-array name="Alphabets">
         <item>అ</item>

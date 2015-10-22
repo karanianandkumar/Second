@@ -16,7 +16,10 @@
         
         android:showAsAction="never"
         android:title="Rate the App"/>
-    
+    <item
+    android:id="@+id/checkable_menu"
+    android:checkable="true"
+    android:title="@string/checkable" />
     
 
 </menu>

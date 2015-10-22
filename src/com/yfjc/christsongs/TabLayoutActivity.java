@@ -6,11 +6,13 @@ import android.app.Activity;
 import android.app.TabActivity;
 import android.content.ActivityNotFoundException;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.res.Resources;
 import android.graphics.Color;
 import android.graphics.Typeface;
 import android.net.Uri;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TabHost;
@@ -20,6 +22,10 @@ import android.widget.TextView;
 public class TabLayoutActivity extends TabActivity implements OnTabChangeListener {
 
 	private TabHost tabHost;
+	boolean isChecked ;
+
+
+SharedPreferences sp ;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
@@ -36,6 +42,13 @@ public class TabLayoutActivity extends TabActivity implements OnTabChangeListene
 	        
 	        
 		setContentView(R.layout.tab_layout);
+		
+
+		sp = PreferenceManager.getDefaultSharedPreferences(this); 
+		
+
+	
+
 		
 		tabHost=getTabHost();
 		TabHost.TabSpec spec;
@@ -108,6 +121,18 @@ public class TabLayoutActivity extends TabActivity implements OnTabChangeListene
 	}
 
 
+	
+
+	@Override
+	public boolean onPrepareOptionsMenu(Menu menu) {
+		SharedPreferences sp = PreferenceManager.getDefaultSharedPreferences(this);
+		isChecked=sp.getBoolean("daily_msg", true);
+	    MenuItem checkable = menu.findItem(R.id.checkable_menu);
+	    checkable.setChecked(isChecked);
+	    return true;
+	}
+
+	
 
 
 	@Override
@@ -119,6 +144,8 @@ public class TabLayoutActivity extends TabActivity implements OnTabChangeListene
     
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
+		SharedPreferences sp = PreferenceManager.getDefaultSharedPreferences(this);
+		isChecked=sp.getBoolean("daily_msg", false);
 		// TODO Auto-generated method stub
 		switch(item.getItemId()){
 		
@@ -135,12 +162,20 @@ public class TabLayoutActivity extends TabActivity implements OnTabChangeListene
                         Uri.parse("http://play.google.com/store/apps/details?id=" + "com.yfjc.christsongs")));
             }
 			return true;
-			
+		
+		case R.id.checkable_menu:
+            isChecked = !item.isChecked();
+            item.setChecked(isChecked);
+            sp.edit().putBoolean("daily_msg", isChecked).commit();
+            return true;	
+            
 		default:
     	
 		return super.onOptionsItemSelected(item);
 	}
 
+		
+		
 	}
 	
 }
